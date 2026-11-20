@@ -1,0 +1,8 @@
+# Third-party code, models and datasets are fetched, never committed (see each folder's README)
+*/src/
+artifacts/
+data/
+*/results/raw/
+*.pkl
+__pycache__/
+.venv/
