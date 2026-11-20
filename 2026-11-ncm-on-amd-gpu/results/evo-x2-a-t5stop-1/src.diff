@@ -1,0 +1,153 @@
+diff --git a/models/next_concept.py b/models/next_concept.py
+index 25ee56d..d91e895 100644
+--- a/models/next_concept.py
++++ b/models/next_concept.py
+@@ -1,4 +1,5 @@
+ import math
++import time
+ import torch
+ import torch.nn as nn
+ import torch.nn.functional as F
+@@ -517,6 +518,12 @@ class NextConceptTransformer(Transformer):
+         x = self.transformer.ln_f(x)
+         return self.lm_heads[hidx](x[:, P:, :])
+ 
++    def _tmark(self, name):
++        # Timing hook (lab patch): only active when a caller sets self.timing to a list.
++        if getattr(self, "timing", None) is not None:
++            torch.cuda.synchronize()
++            self.timing.append((name, time.perf_counter()))
++
+     @torch.no_grad()
+     def generate(self, idx, prefix_tokens, temperature=1.0, top_k=50, top_p=0.9,
+                  use_kv_cache=False, cfg_scale=0.0, cfg_null_eos=50256):
+@@ -524,6 +531,7 @@ class NextConceptTransformer(Transformer):
+             "query_level0 generation supports the eager path only"
+ 
+         dev = prefix_tokens.device
++        self._tmark("start")
+ 
+         self._cfg = None
+         # CFG: double the batch to [document; null] before the prefix is encoded; cfg_scale=0 builds no null branch.
+@@ -578,6 +586,7 @@ class NextConceptTransformer(Transformer):
+                 torch.tensor(float('-inf'), device=dev),
+                 torch.tensor(0.0, device=dev))
+ 
++        self._tmark("prefix")
+         if idx is None and self.query_level0:
+             l0 = self.levels[0]
+             _q0 = self.build_l0_query_input(B, prefix_emb.dtype)
+@@ -640,6 +649,7 @@ class NextConceptTransformer(Transformer):
+             if self._cfg is not None: self._cfg["level"] = 0
+             idx = self._sample_level(l0_logits, temperature, top_k, top_p)
+ 
++        self._tmark("level0")
+         generated_idx = [idx]
+         idx_next = idx
+         if use_kv_cache:
+@@ -692,6 +702,7 @@ class NextConceptTransformer(Transformer):
+ 
+                 generated_idx.append(idx_next)
+                 level_acum += self.levels[level_idx+1]
++                self._tmark(f"level{level_idx + 1}")
+         finally:
+             if use_kv_cache:
+                 self._set_kv_caching(False)
+diff --git a/scripts/eval_shard.py b/scripts/eval_shard.py
+index 2875b0b..6e765c4 100644
+--- a/scripts/eval_shard.py
++++ b/scripts/eval_shard.py
+@@ -24,6 +24,12 @@ ap.add_argument("--mu", type=float, default=None)
+ ap.add_argument("--adj", default=None)
+ ap.add_argument("--l0", default="", help="unigram (default), active, uniform, or smooth:<eps> (mix eps of uniform into the unigram)")
+ ap.add_argument("--out", required=True)
++ap.add_argument("--bf16", action="store_true", help="generate under BF16 mixed precision (torch.autocast); default float32")
++ap.add_argument("--time", action="store_true", help="timing mode (lab patch): batch size 1, one request at a time; --out is the CSV path")
++ap.add_argument("--time-n", type=int, default=1000, help="timing mode: number of test articles, drawn with --time-seed")
++ap.add_argument("--time-seed", type=int, default=0, help="timing mode: seed for drawing the articles")
++ap.add_argument("--warmup-s", type=float, default=60.0, help="timing mode: seconds of warm-up requests before measuring (discarded)")
++ap.add_argument("--time-passes", action="store_true", help="timing mode: also time the prefix encoding and each pass inside generate (one synchronize per pass)")
+ a = ap.parse_args()
+ 
+ CFG = OmegaConf.load(a.config)
+@@ -138,7 +144,7 @@ RAW = []
+ 
+ 
+ def run(x, l0=None):
+-    with torch.no_grad():
++    with torch.no_grad(), torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=a.bf16):
+         g = net.generate(l0, x, temperature=temp, top_k=top_k, top_p=top_p, cfg_scale=cfg, cfg_null_eos=EOS)
+         _, zl = tk.vqvae.vq.idx_to_zhats(g, return_zlevels=True)
+         ids = pick_tokens(tk.vqvae.decoder(zl[-1])).tolist()
+@@ -146,6 +152,71 @@ def run(x, l0=None):
+         return [dec(r) for r in ids]
+ 
+ 
++if a.time:
++    # Timing mode (lab patch): same model, settings and decoding as run(), one article per request.
++    import csv, json, random, time
++    assert not UNCOND, "timing mode needs a conditional task (articles as input)"
++    arts = random.Random(a.time_seed).sample(range(len(items)), min(a.time_n, len(items)))
++    out_dir = os.path.dirname(os.path.abspath(a.out))
++    os.makedirs(out_dir, exist_ok=True)
++    with open(os.path.join(out_dir, "articles.txt"), "w") as f:
++        f.write("\n".join(map(str, arts)) + "\n")
++
++    def tick():
++        torch.cuda.synchronize()
++        return time.perf_counter()
++
++    def one(i):
++        x = torch.tensor([prefix(items[i])], device="cuda")
++        net.timing = [] if a.time_passes else None
++        with torch.no_grad(), torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=a.bf16):
++            t0 = tick()
++            g = net.generate(None, x, temperature=temp, top_k=top_k, top_p=top_p, cfg_scale=cfg, cfg_null_eos=EOS)
++            t1 = tick()
++            _, zl = tk.vqvae.vq.idx_to_zhats(g, return_zlevels=True)
++            t2 = tick()
++            logits = tk.vqvae.decoder(zl[-1])
++            t3 = tick()
++            ids = pick_tokens(logits).tolist()
++            t4 = tick()
++        text = dec(ids[0])
++        t5 = time.perf_counter()
++        marks = [t for _, t in (net.timing or [])]
++        net.timing = None
++        ms = lambda s, e: round((e - s) * 1e3, 3)
++        return {
++            "article": i, "ts": round(time.time(), 3),
++            "total_ms": ms(t0, t5), "generate_ms": ms(t0, t1), "zhats_ms": ms(t1, t2),
++            "decoder_ms": ms(t2, t3), "pick_ms": ms(t3, t4), "dec_ms": ms(t4, t5),
++            "prefix_ms": ms(marks[0], marks[1]) if len(marks) > 1 else "",
++            "pass_ms": ";".join(str(ms(s, e)) for s, e in zip(marks[1:], marks[2:])),
++            "mem_alloc_mb": round(torch.cuda.memory_allocated() / 2**20, 1),
++            "mem_reserved_mb": round(torch.cuda.memory_reserved() / 2**20, 1),
++            "summary": text,
++        }
++
++    w0, nw = time.perf_counter(), 0
++    while time.perf_counter() - w0 < a.warmup_s:
++        one(arts[nw % len(arts)])
++        nw += 1
++    warm_s = time.perf_counter() - w0
++    print(f"  warm-up: {nw} requests in {warm_s:.1f} s (discarded)", flush=True)
++
++    fields = ["req", "article", "ts", "total_ms", "generate_ms", "zhats_ms", "decoder_ms", "pick_ms", "dec_ms",
++              "prefix_ms", "pass_ms", "mem_alloc_mb", "mem_reserved_mb", "summary"]
++    with open(a.out, "w", newline="") as f:
++        w = csv.DictWriter(f, fieldnames=fields)
++        w.writeheader()
++        for k, i in enumerate(arts):
++            w.writerow({"req": k, **one(i)})
++            if k % 100 == 0:
++                print(f"  timed {k}/{len(arts)}", flush=True)
++    with open(os.path.join(out_dir, "timing-meta.json"), "w") as f:
++        json.dump({"articles": len(arts), "seed": a.time_seed, "batch_size": 1, "bf16": a.bf16,
++                   "time_passes": a.time_passes, "warmup_s": round(warm_s, 1), "warmup_requests": nw}, f, indent=2)
++    print(f"timed {len(arts)} requests -> {a.out}", flush=True)
++    sys.exit(0)
++
+ hyps, sample_seed = [], []
+ if UNCOND:
+     L0 = tk.vqvae.vq.levels[0]

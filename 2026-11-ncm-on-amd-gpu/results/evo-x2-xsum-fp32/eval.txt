@@ -1,0 +1,7 @@
+[evaluate] 1 shard(s) on GPU(s) 0 -> ~/repos/negmbots-lab/2026-11-ncm-on-amd-gpu/results/evo-x2-xsum-fp32/eval/xsum/
+
+merged 1 shards -> 11334 xsum outputs
+
+Loading weights:   0%|          | 0/148 [00:00<?, ?it/s]Loading weights: 100%|██████████| 148/148 [00:00<00:00, 25557.12it/s]
+    R-1     R-2     R-L   genPPL   words
+  34.92   12.71   27.93    82.63    20.7

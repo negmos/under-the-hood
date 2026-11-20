@@ -1,0 +1,23 @@
+diff --git a/scripts/eval_shard.py b/scripts/eval_shard.py
+index 6e765c4..917ff03 100644
+--- a/scripts/eval_shard.py
++++ b/scripts/eval_shard.py
+@@ -30,6 +30,7 @@ ap.add_argument("--time-n", type=int, default=1000, help="timing mode: number of
+ ap.add_argument("--time-seed", type=int, default=0, help="timing mode: seed for drawing the articles")
+ ap.add_argument("--warmup-s", type=float, default=60.0, help="timing mode: seconds of warm-up requests before measuring (discarded)")
+ ap.add_argument("--time-passes", action="store_true", help="timing mode: also time the prefix encoding and each pass inside generate (one synchronize per pass)")
++ap.add_argument("--compile", action="store_true", help="compile each transformer block with torch.compile (lab experiment)")
+ a = ap.parse_args()
+ 
+ CFG = OmegaConf.load(a.config)
+@@ -58,6 +59,10 @@ net = NextConceptTransformer(vqvae_local=tk.vqvae, config=CFG.model).cuda()
+ sd = torch.load(os.path.join(ck, CFG.checkpoints.generator), map_location="cpu", weights_only=False)
+ net.load_state_dict(sd["model"], strict=True)
+ net.eval()
++if a.compile:
++    # Lab patch: compile each transformer block (the heavy part of every pass); compiling happens on first use.
++    for i, block in enumerate(net.transformer.blocks):
++        net.transformer.blocks[i] = torch.compile(block)
+ P = int(CFG.model.prefix_len)
+ EOS, PAD = tk.pre_tokenizer.eos_token_id, tk.pre_tokenizer.pad_token_id
+ 

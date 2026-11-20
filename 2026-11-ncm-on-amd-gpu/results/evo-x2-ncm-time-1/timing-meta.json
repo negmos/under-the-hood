@@ -1,0 +1,9 @@
+{
+  "articles": 1000,
+  "seed": 0,
+  "batch_size": 1,
+  "bf16": true,
+  "time_passes": true,
+  "warmup_s": 60.0,
+  "warmup_requests": 617
+}

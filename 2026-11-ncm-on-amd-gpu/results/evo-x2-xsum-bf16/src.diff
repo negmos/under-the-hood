@@ -1,0 +1,21 @@
+diff --git a/scripts/eval_shard.py b/scripts/eval_shard.py
+index 2875b0b..12ea361 100644
+--- a/scripts/eval_shard.py
++++ b/scripts/eval_shard.py
+@@ -24,6 +24,7 @@ ap.add_argument("--mu", type=float, default=None)
+ ap.add_argument("--adj", default=None)
+ ap.add_argument("--l0", default="", help="unigram (default), active, uniform, or smooth:<eps> (mix eps of uniform into the unigram)")
+ ap.add_argument("--out", required=True)
++ap.add_argument("--bf16", action="store_true", help="generate under BF16 mixed precision (torch.autocast); default float32")
+ a = ap.parse_args()
+ 
+ CFG = OmegaConf.load(a.config)
+@@ -138,7 +139,7 @@ RAW = []
+ 
+ 
+ def run(x, l0=None):
+-    with torch.no_grad():
++    with torch.no_grad(), torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=a.bf16):
+         g = net.generate(l0, x, temperature=temp, top_k=top_k, top_p=top_p, cfg_scale=cfg, cfg_null_eos=EOS)
+         _, zl = tk.vqvae.vq.idx_to_zhats(g, return_zlevels=True)
+         ids = pick_tokens(tk.vqvae.decoder(zl[-1])).tolist()

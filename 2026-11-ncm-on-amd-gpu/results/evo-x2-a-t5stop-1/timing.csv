@@ -1,0 +1,1001 @@
+req,article,ts,total_ms,generate_ms,dec_ms,out_tokens,stopped_eos,mem_alloc_mb,mem_reserved_mb,summary
+0,6311,1794993461.702,86.09,85.933,0.157,27,1,230.8,442.0,Prime Minister David Cameron has reached a deal to end a four-year ban on migrants sending child benefit to the EU.
+1,6890,1794993461.78,77.309,77.152,0.157,24,1,230.8,442.0,Scientists in the US are launching a new mapping exercise to help them understand the extent of earthquakes.
+2,663,1794993461.876,94.872,94.713,0.159,30,1,230.8,442.0,A former Belgian footballer who was a fan of the sport has been a key figure in the world's top football rankings.
+3,4242,1794993461.972,94.422,94.258,0.164,30,1,230.8,442.0,A dispute over executive pay at distilleries and bottling plants at the Scottish firm Diageo has been backed by unions.
+4,8376,1794993462.033,60.82,60.666,0.154,17,1,230.8,442.0,A man has been found dead in a car park in the Highlands.
+5,7961,1794993462.136,101.515,101.35,0.165,30,1,230.8,442.0,League Two side Dundee have signed former Hibernian midfielder Darren van Zanten on a two-year deal.
+6,6634,1794993462.21,73.552,73.396,0.156,21,1,230.8,442.0,A man has been arrested on suspicion of murder after a cyclist was hit by a car.
+7,4969,1794993462.309,98.895,98.733,0.162,29,1,230.8,442.0,"A sea conservationist has said there has been a ""severe increase"" in the number of leatherbacks reported off Wales."
+8,7808,1794993462.4,89.466,89.308,0.158,26,1,230.8,442.0,A man has been arrested on suspicion of murder after a woman was dragged by the neck through a street.
+9,5866,1794993462.527,127.138,126.973,0.165,38,1,230.8,442.0,Crewe Alexandra have signed teenage midfielder Jussi Jaaskelainen on a two-year deal after he was released by Bolton Wanderers.
+10,9558,1794993462.589,59.894,59.739,0.155,18,1,230.8,442.0,US President Barack Obama has announced that a former FBI director is to step down.
+11,3578,1794993462.663,73.718,73.56,0.158,21,1,230.8,442.0,A triathlon athlete who went missing after a swim has been found dead in a lake.
+12,8268,1794993462.779,114.665,114.504,0.161,34,1,230.8,442.0,"A man has been arrested in India on suspicion of murder after a student was shot dead by a fellow student at a school in the capital, Bangalore."
+13,2281,1794993462.841,61.525,61.366,0.159,17,1,230.8,442.0,A former Labour leader has been elected as the new leader of Birmingham City Council.
+14,4617,1794993462.931,89.519,89.362,0.157,26,1,230.8,442.0,A railway line in Oxford has been closed for more than a year after it was closed for more than a year.
+15,2289,1794993462.981,48.835,48.677,0.158,13,1,230.8,442.0,A former textile mill in Bradford has been destroyed by fire.
+16,1553,1794993463.059,77.05,76.861,0.189,22,1,230.8,442.0,"A robot that can travel at speeds of up to 5,000mph has been developed by a scientist."
+17,10131,1794993463.15,89.185,89.027,0.158,28,1,230.8,442.0,The Russian-backed rebels in the eastern Ukraine region of Donetsk have announced that they are pulling out of their weapons.
+18,4104,1794993463.205,53.932,53.776,0.156,16,1,230.8,442.0,A former Barnsley goalkeeper has died at the age of 93.
+19,8725,1794993463.283,77.045,76.886,0.158,22,1,230.8,442.0,A three-day strike by teaching employers in Northern Ireland is to be held in the next two months.
+20,9861,1794993463.387,103.418,103.256,0.162,33,1,230.8,442.0,"A road safety barrier in County Tyrone has been removed after a report that it was a ""horrific accident"" in the 1970s."
+21,2407,1794993463.496,108.289,108.126,0.163,32,1,230.8,442.0,The hackers who allegedly stole the script for HBO's Game of Thrones have contacted the BBC to discuss the material they claim to have been stolen.
+22,5081,1794993463.578,80.883,80.724,0.159,25,1,230.8,442.0,Floyd Mayweather and Michael McGregor have defended their fight at the US Super League's ICC World Championship.
+23,1618,1794993463.675,95.959,95.802,0.157,28,1,230.8,442.0,"A man has been fined £1,000 after a drink-driving bar in County Tyrone was closed for three months."
+24,1208,1794993463.769,92.977,92.784,0.192,27,1,230.8,442.0,Team Sky have withdrawn the former world number one Sergio Henao from cycling after a suspected doping test.
+25,11206,1794993463.841,70.94,70.771,0.168,20,1,230.8,442.0,The government has launched a scheme to prevent badgers from culling the disease.
+26,5409,1794993463.938,95.984,95.826,0.158,28,1,230.8,442.0,"Photographs of the ""horrific"" conditions in which people lived in England and Wales have gone on display in the UK."
+27,7735,1794993464.029,89.122,88.96,0.161,28,1,230.8,442.0,"Former Portland Timbers striker David Boyd says there is a ""big market"" for Scottish clubs to play in the US."
+28,9171,1794993464.126,96.096,95.933,0.162,28,1,230.8,442.0,The Scottish government is to ask the government to investigate claims that police Scotland used spying powers to uncover a journalist's sources.
+29,1649,1794993464.213,86.203,86.043,0.16,27,1,230.8,442.0,"The US Senate has voted to repeal the Obamacare law, a move that has been criticised by the Republican Party."
+30,5796,1794993464.298,83.22,83.056,0.164,26,1,230.8,442.0,Blackpool fought back from 2-0 down to beat Wycombe and move into the League Two play-off places.
+31,7113,1794993464.366,67.571,67.412,0.159,19,1,230.8,442.0,"A collection of rare film memorabilia has been sold at auction for £20,000."
+32,5180,1794993464.45,82.965,82.797,0.167,26,1,230.8,442.0,"Welsh Secretary Alun Cairns has said he was ""very happy"" with the leadership of the Welsh Government."
+33,10008,1794993464.532,80.419,80.259,0.159,25,1,230.8,442.0,A man has appeared in court in Madrid charged with the murder of eight people in the Las Ramblas bombing.
+34,10492,1794993464.61,76.98,76.822,0.158,22,1,230.8,442.0,A proposed £20m golf and tennis centre in Stirling has been criticised by councillors.
+35,3350,1794993464.697,86.683,86.525,0.158,25,1,230.8,442.0,A man has been arrested on suspicion of murdering a woman who was found dead in a field in Hampshire.
+36,9052,1794993464.791,93.006,92.847,0.159,27,1,230.8,442.0,A teenager who raped a teenager in a care home has been found guilty of attempting to commit suicide.
+37,7815,1794993464.882,89.634,89.475,0.158,26,1,230.8,442.0,Britain's Chris Dufner is one shot off the lead after the first round of the World Championship in New York.
+38,7253,1794993464.969,86.809,86.648,0.161,25,1,230.8,442.0,A man who killed his mother in a car crash seven years ago has been charged with manslaughter.
+39,8541,1794993465.074,103.538,103.385,0.153,33,1,230.8,442.0,"Western Sahara is a small town in the Saharan region, a small town in the north-western city of Laayoune."
+40,4267,1794993465.152,77.143,76.985,0.158,22,1,230.8,442.0,A contract to run a repair company for North Lanarkshire Council has been put out to tender.
+41,1020,1794993465.26,106.323,106.16,0.163,34,1,230.8,442.0,A coroner has apologised to a hospital for refusing to transfer a woman to a specialist unit to consider undergoing critical care.
+42,8989,1794993465.385,124.261,124.093,0.168,37,1,230.8,442.0,"The Russian Orthodox Church has said it will not investigate a bust of a Roman Catholic priest who claimed he wanted Russia to ""prosper and be great again""."
+43,230,1794993465.464,77.283,77.127,0.157,24,1,230.8,442.0,A former Northern Ireland soldier has won a legal challenge to the UK government's decision to leave the EU.
+44,1528,1794993465.554,89.561,89.411,0.15,26,1,230.8,442.0,"Canadian President Justin Biden has said he is ""very, very sorry"" for his comments about the US and Canada."
+45,6534,1794993465.627,71.622,71.465,0.157,22,1,230.8,442.0,Former England and New Zealand referee James Owens has announced he will retire from international rugby.
+46,10947,1794993465.692,64.35,64.191,0.159,18,1,230.8,442.0,Police searching for a missing man in Aberdeenshire have recovered items of his clothing.
+47,10244,1794993465.764,70.636,70.479,0.158,20,1,230.8,442.0,The chief executive of a cancer trust at the Christie Hospital in Manchester has resigned.
+48,18,1794993465.854,89.504,89.346,0.159,26,1,230.8,442.0,American Chris Rose and US Open champion Chris Woods are two shots off the lead after the final round of the US Open.
+49,10025,1794993465.932,77.217,77.057,0.16,24,1,230.8,442.0,British rower David Pitcher has set a new world record for the fastest solo rowing in the world.
+50,8086,1794993465.998,64.439,64.284,0.155,18,1,230.8,442.0,A police chief has been cleared of misconduct after he was found guilty of misconduct.
+51,5458,1794993466.097,97.707,97.548,0.159,31,1,230.8,442.0,Pictures of a Sri Lankan boy shot dead by soldiers in the last time he was killed in the conflict have been released by the government.
+52,3996,1794993466.169,71.425,71.264,0.161,22,1,230.8,442.0,Walsall slipped to the bottom of League One with a goalless draw at Millwall.
+53,5328,1794993466.271,100.653,100.491,0.162,32,1,230.8,442.0,"A convicted shipwrecker in Italy has gone on trial in the Italian city of Florence, claiming he was responsible for the disaster."
+54,1031,1794993466.364,92.566,92.405,0.161,27,1,230.8,442.0,Police have released CCTV images of two women they want to speak to in connection with a serious assault in the Republic of Ireland.
+55,3130,1794993466.477,111.66,111.499,0.162,33,1,230.8,442.0,Lille have signed defender Aitor Bissouma from French side Stade Pierre-Mauroy on a two-year deal.
+56,9298,1794993466.567,89.1,88.942,0.158,28,1,230.8,442.0,"The death of a footballer in the UK is a rare event that can cause a heart attack, according to research."
+57,3632,1794993466.664,95.853,95.693,0.16,28,1,230.8,442.0,Hampshire's hopes of survival were ended by a thumping defeat by Lancashire at Edgbaston.
+58,3909,1794993466.739,74.371,74.208,0.163,23,1,230.8,442.0,The Westgate mall bombing has sparked a surge in the number of security officers in Kenya.
+59,2334,1794993466.815,74.472,74.315,0.157,23,1,230.8,442.0,"The medical profession is changing the way people are treated, but it is not always easy to diagnose the condition."
+60,8896,1794993466.896,80.046,79.888,0.158,23,1,230.8,442.0,A man has been commissioned to create a collection of paintings from a boat in the Highlands.
+61,7339,1794993466.983,86.272,86.112,0.161,25,1,230.8,442.0,Thousands of people have marched in the Afghan capital Kabul to protest against Iran's refusal to supply fuel.
+62,1494,1794993467.07,86.341,86.183,0.158,25,1,230.8,442.0,Zimbabwe's President Robert Mugabe has said he will debate a law banning gatherings without police permission.
+63,1318,1794993467.184,112.514,112.348,0.165,36,1,230.8,442.0,"A court has ruled that a company that was able to avoid paying tax through ""con convoluted, artificial schemes"" has won £130m in tax."
+64,5243,1794993467.283,98.786,98.625,0.161,29,1,230.8,442.0,A man has been arrested on suspicion of murder after a 19-year-old man was killed in a crash with two bikes.
+65,8322,1794993467.361,76.927,76.769,0.158,22,1,230.8,442.0,A fire at a recycling plant in Flintshire has left thousands of tonnes of wood chip burnt.
+66,8016,1794993467.432,70.529,70.371,0.158,20,1,230.8,442.0,A fire at a dockyard in Cardiff has been halted for a week.
+67,1786,1794993467.513,80.296,80.152,0.144,23,1,230.8,442.0,A woman has died after a bus hit a wall at a bus depot in Londonderry.
+68,4938,1794993467.609,94.95,94.795,0.155,30,1,230.8,442.0,A US student who was arrested in North Korea for trying to steal a propaganda sign has been diagnosed with a rare form of brain damage.
+69,9031,1794993467.709,98.832,98.673,0.159,29,1,230.8,442.0,Britain's Chris Evans lost in straight sets to American Graeme McDiarmid in the first round of the Australian Open.
+70,4769,1794993467.799,89.524,89.365,0.159,26,1,230.8,442.0,A Conservative MP has been sacked after a £10m loan to a football stand was found to be missing.
+71,2044,1794993467.899,99.123,98.963,0.161,29,1,230.8,442.0,Great Britain's former champions Badminton and Chris Adcock have been awarded a medal at the World Championships in Glasgow.
+72,8969,1794993467.996,96.189,96.028,0.161,28,1,230.8,442.0,"Iraq's government has passed a plan to cut the number of senior government posts, a day after a heatwave."
+73,5451,1794993468.087,89.516,89.358,0.159,26,1,230.8,442.0,Britain's Mark McIlroy won the MotoGP in the US for the first time in more than 40 years.
+74,8852,1794993468.183,94.891,94.732,0.159,30,1,230.8,442.0,"The UK government is considering whether to split off the Openreach broadband service from BT, according to the head of the digital communications firm."
+75,3329,1794993468.283,99.052,98.894,0.158,29,1,230.8,442.0,A Brazilian rancher has been sentenced to life in prison for the murder of a rainforest activist in the country's Amazon state.
+76,9882,1794993468.395,111.768,111.609,0.159,33,1,230.8,442.0,"Hull KR boss Steve Peacock says he is ""disappointed"" by the decision to sack Hull KR captain Albert Kelly."
+77,8965,1794993468.503,106.707,106.541,0.166,34,1,230.8,442.0,"The Proms has been a big day for the conductors of the world's most famous orchestra, the BBC's The Proms."
+78,9627,1794993468.579,74.598,74.44,0.157,23,1,230.8,442.0,"Channel 4 is to shut its TV channel on election night, with the broadcaster switching off his favourite channel."
+79,4712,1794993468.691,111.331,111.17,0.161,33,1,230.8,442.0,"Malaysian police have arrested two people suspected of involvement in the Islamic State (IS) attack on a restaurant in the capital, Kuala Lumpur."
+80,7290,1794993468.775,83.602,83.406,0.196,24,1,230.8,442.0,"A building on the Spanish island of Arona has collapsed, killing at least eight people, officials say."
+81,1501,1794993468.919,141.768,141.592,0.176,46,1,230.8,442.0,"The former president of the Democratic Republic of Congo, Mobutu Sese Seko, has been charged with stealing more than $1bn (£4bn) from the country's state funds."
+82,9769,1794993469.037,117.773,117.607,0.166,35,1,230.8,442.0,A gang of armed men who robbed a woman and a woman in a Londonderry house have been jailed for four years.
+83,6306,1794993469.14,102.345,102.182,0.163,30,1,230.8,442.0,"Oldham Athletic manager Mark Robinson says he is ""concerned"" the club's embargo will be lifted next week."
+84,5194,1794993469.231,89.017,88.855,0.161,28,1,230.8,442.0,"The body of author Liz Bailey was found in a garage in a dachshund, a court has heard."
+85,9431,1794993469.343,111.512,111.347,0.164,33,1,230.8,442.0,Swindon Town's Darren Doughty and Mark Williams both scored twice as they beat Millwall to move up to second in the Championship.
+86,3966,1794993469.434,89.538,89.374,0.165,26,1,230.8,442.0,Ireland's Intercontinental Cup match with Afghanistan was abandoned after a rain-affected second day of the game.
+87,4756,1794993469.53,95.985,95.826,0.16,28,1,230.8,442.0,"The House of Commons' chief executive, Sir Kevin, has said he has breached the Commons code of conduct."
+88,3012,1794993469.604,72.186,72.026,0.159,22,1,230.8,442.0,Welsh swimmer Jo Carlin has become the first woman to win two Olympic medals in a decade.
+89,3102,1794993469.685,80.064,79.907,0.157,23,1,230.8,442.0,A painting depicting Jesus carrying the cross has been saved by the public after a campaign to save it.
+90,3059,1794993469.772,86.274,86.116,0.158,25,1,230.8,442.0,"A number of people have been waiting for urgent appointments at the Ulster Hospital in Northern Ireland, according to new figures."
+91,540,1794993469.853,80.364,80.157,0.207,23,1,230.8,442.0,"Pope Francis has praised the persecution of Christians in Kenya, at a ceremony in the capital, Nairobi."
+92,10039,1794993469.914,59.577,59.419,0.158,18,1,230.8,442.0,A former boss of a Bristol school has been accused of bullying staff and bullying.
+93,10758,1794993469.982,67.254,67.096,0.158,19,1,230.8,442.0,Yorkshire have been asked to move their first day-night Test against Pakistan in the UK.
+94,4260,1794993470.072,89.215,89.06,0.155,26,1,230.8,442.0,"A woman has appeared in court accused of painting her Kensington home in a ""hideous and tacky"" design."
+95,7807,1794993470.188,114.858,114.697,0.161,34,1,230.8,442.0,A number of homes and buildings in the Pacific island of Vanuatu have been destroyed by a cyclone that left a number of people dead.
+96,1131,1794993470.299,109.47,109.307,0.163,35,1,230.8,442.0,"Nicholas Winton, who was the first Jewish refugee to be rescued by the Nazis in the UK, was a pioneer of the rescue of Jewish refugees."
+97,1471,1794993470.376,76.891,76.73,0.162,22,1,230.8,442.0,A group of people have been claiming to have been the first to buy bananas in the UK.
+98,11120,1794993470.482,105.277,105.108,0.17,31,1,230.8,442.0,"The Belfast City Council's chief executive, David Hazzard, has said he will consider extending the Belfast bus lanes to Belfast."
+99,2133,1794993470.557,73.588,73.43,0.157,21,1,230.8,442.0,Newport County have signed former Centurions defender Sam Hopkins on a two-year deal.
+100,2450,1794993470.65,92.6,92.449,0.151,27,1,230.8,442.0,A teenager has been beaten and beaten in the face by a group of older people on a train in Glasgow.
+101,633,1794993470.74,88.827,88.67,0.157,28,1,230.8,442.0,"A sewage leak at the Glastonbury Festival caused a ""significant impact"" on fish health, a court has heard."
+102,1314,1794993470.819,77.182,77.024,0.158,24,1,230.8,442.0,"The average steps in a country are more important for obesity than previously thought, according to a new study."
+103,8857,1794993470.915,94.759,94.599,0.16,30,1,230.8,442.0,"A rugby player who died after his car crashed into a roundabout was filmed racing against a Porsche, an inquest has heard."
+104,11198,1794993470.983,67.581,67.417,0.164,19,1,230.8,442.0,A man has played bagpipes on a space trip to the International Space Centre.
+105,6410,1794993471.092,108.189,107.999,0.19,32,1,230.8,442.0,"Middlesbrough manager Paul Agnew says his side's defensive attitude was ""naive"" after their 2-1 defeat by Hull City."
+106,8594,1794993471.16,67.552,67.396,0.156,19,1,230.8,442.0,A man has been arrested in connection with the murder of a woman in County Dublin.
+107,4515,1794993471.216,54.735,54.579,0.156,15,1,230.8,442.0,A dog has been rescued from a cliff in Devon.
+108,8549,1794993471.312,94.602,94.444,0.159,30,1,230.8,442.0,A 16-year-old boy has been arrested on suspicion of murder after a teacher was stabbed at a school in Bradford.
+109,3858,1794993471.405,92.623,92.448,0.175,27,1,230.8,442.0,A man and his dog have been rescued after their car was smashed into a lake in Hertfordshire.
+110,3525,1794993471.474,67.794,67.634,0.161,19,1,230.8,442.0,Celtic will host Clyde Rangers in the fifth round of the Scottish Premiership.
+111,11132,1794993471.575,100.361,100.198,0.163,32,1,230.8,442.0,"The US election is a big day for the political parties in Europe, with the majority of the party's politicians resenting mainstream politicians."
+112,9663,1794993471.65,73.873,73.712,0.161,21,1,230.8,442.0,A scheme to help black and ethnic minority women get into work has been launched by the Scottish government.
+113,6871,1794993471.75,99.063,98.905,0.159,29,1,230.8,442.0,"The Irish language actor Lally, who played the role in the BBC's Translations, has died at the age of 87."
+114,9497,1794993471.871,120.524,120.357,0.167,36,1,230.8,442.0,Britain's Mark Edmund and France's Mark Wawrinka were knocked out of the Indian Open by world number 66 Aljaz Bedene.
+115,4509,1794993471.965,92.466,92.306,0.161,27,1,230.8,442.0,"British jockey Jodie Turner says she is ""very happy"" to be able to ride a flat in the UK."
+116,7382,1794993472.075,109.474,109.304,0.17,35,1,230.8,442.0,A conservation group has said it wants to hear from farmers about the impact of a reintroduction of lynx to help control deer numbers.
+117,8071,1794993472.156,80.077,79.918,0.159,23,1,230.8,442.0,A boy has been killed by a donkey in a village in the Indian state of Uttar Pradesh.
+118,10817,1794993472.264,106.398,106.233,0.165,34,1,230.8,442.0,Togo's 2-1 defeat by Togo in the first of two matches of the 2017 World Cup has been marked by the death of former coach Keshi.
+119,10505,1794993472.386,121.037,120.872,0.165,36,1,230.8,442.0,"Burnley midfielder Michael Keane has been ruled out of England's Euro 2016 squad after a hamstring injury, including defender Gary Johnson."
+120,5855,1794993472.454,67.588,67.432,0.156,19,1,230.8,442.0,A man from the UK has been reunited with his family in Calais.
+121,1349,1794993472.524,68.85,68.69,0.159,21,1,230.8,442.0,"The Welsh NHS has been branded the ""best kept secret"" by eight health watchdogs."
+122,5313,1794993472.64,114.744,114.581,0.163,34,1,230.8,442.0,The trial of a Dublin teenager who was arrested in Egypt for allegedly trying to smuggle him into the country has been adjourned.
+123,1889,1794993472.75,109.389,109.222,0.167,35,1,230.8,442.0,"The Department for Civil and Crime has said it is ""not good enough"" to build up hopes for a deal to deal with the problems facing the Troubles victims."
+124,7969,1794993472.85,98.657,98.496,0.16,29,1,230.8,442.0,A rare Galapagos tortoise has been sired at a California zoo after a long illness.
+125,9618,1794993472.937,86.323,86.164,0.158,27,1,230.8,442.0,A man has been found guilty of causing the deaths of two children in a hit-and-run crash in Leeds.
+126,10324,1794993473.044,106.275,106.111,0.164,34,1,230.8,442.0,A Connecticut teenager has been charged with a number of offences after allegedly posting videos of a drone that showed a handgun firing a turkey.
+127,5493,1794993473.112,66.382,66.213,0.169,20,1,230.8,442.0,Bradford City reached the League Cup second round with a comfortable win over Chesham United.
+128,3119,1794993473.211,97.744,97.585,0.16,31,1,230.8,442.0,"Police Scotland has said it is ""disturbing"" that it does not yet collect data on children who are subject to sexual exploitation."
+129,3981,1794993473.292,80.029,79.862,0.167,25,1,230.8,442.0,Ipswich Town boosted their League One survival hopes with a 3-0 win over Wigan Athletic.
+130,265,1794993473.379,86.432,86.273,0.16,25,1,230.8,442.0,BrewDog has raised more than £100m in a crowdfunding round to help fund expansion in the US.
+131,4440,1794993473.489,108.441,108.281,0.159,32,1,230.8,442.0,A three-year-old boy has died and his brother has been taken to hospital after a fire at a house in Swansea.
+132,1919,1794993473.557,67.413,67.257,0.156,19,1,230.8,442.0,A woman has been taken to hospital after being hit by a car in Aberdeenshire.
+133,3612,1794993473.628,70.491,70.334,0.157,20,1,230.8,442.0,Plans for a new wind farm in the Highlands have been approved by the Planning Commission.
+134,6095,1794993473.747,118.263,118.064,0.198,38,1,230.8,442.0,The UK's former foreign minister has said the Ebola crisis would be an area where Britain would not have the same influence if it was not part of the European Union.
+135,2793,1794993473.838,89.339,89.169,0.17,28,1,230.8,442.0,The German police have released a report that a man who killed a plane in the cockpit was a suicide bomber.
+136,5448,1794993473.949,109.453,109.285,0.168,35,1,230.8,442.0,"Fifa has withdrawn its sponsorship of the world's biggest sporting sports network, despite the news that the company is re-organising its sponsorship."
+137,6981,1794993474.033,82.827,82.666,0.161,26,1,230.8,442.0,Sven-Goran McKee scored twice as Ireland beat Poland 3-0 to reach the World League semi-finals.
+138,1018,1794993474.113,79.887,79.732,0.155,23,1,230.8,442.0,National League side Chester have signed former Gateshead defender Mark Cooper on a two-year deal.
+139,1648,1794993474.201,86.297,86.138,0.16,25,1,230.8,442.0,A nurse who injected her mother with a potentially lethal dose of insulin has been found guilty of attempted murder.
+140,2397,1794993474.288,86.297,86.139,0.158,27,1,230.8,442.0,A woman who has been working full-time in the US has been praised for her role in a new TV series.
+141,3584,1794993474.338,48.784,48.627,0.157,13,1,230.8,442.0,Malaysian Airlines chief executive Christoph Mueller has resigned.
+142,741,1794993474.423,83.513,83.356,0.157,24,1,230.8,442.0,Iain Johnson has pulled out of the US Open after falling off the range in the middle of the morning.
+143,9402,1794993474.51,86.164,86.004,0.16,25,1,230.8,442.0,A teenager has been arrested on suspicion of attempted murder after a man was stabbed in the head in Birmingham.
+144,10390,1794993474.565,54.696,54.547,0.149,15,1,230.8,442.0,A man who went missing in India has been found safe and well.
+145,8752,1794993474.671,105.303,105.076,0.227,31,1,230.8,442.0,"Abercrombie has apologised after a tweet from the brand's website was deemed ""inappropriate"" by many."
+146,9865,1794993475.037,365.653,365.48,0.173,114,1,230.8,442.0,A dyn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn yn
+147,11150,1794993475.14,100.874,100.714,0.159,32,1,230.8,442.0,"A group of voters have been accused of bribery and ""interference"" in a bid to re-run a council election."
+148,1212,1794993475.25,108.741,108.581,0.161,32,1,230.8,442.0,A Chicago police officer who shot and killed a woman in a video showing him kicking a knife has been arrested in a federal investigation.
+149,437,1794993475.363,112.063,111.896,0.166,33,1,230.8,442.0,A helicopter maker has said it will close its headquarters in Yeovil because of a potential loss of a contact with the company's chief executive.
+150,2038,1794993475.425,61.133,60.977,0.156,17,1,230.8,442.0,A new £4m library and leisure centre in the Borders has opened.
+151,10403,1794993475.527,101.211,101.053,0.158,32,1,230.8,442.0,The Greek government has a new policy to help migrants who are living in a detention centre in the centre of the island of Moria.
+152,3088,1794993475.61,80.857,80.698,0.159,23,1,230.8,442.0,A French cosmetics firm has denied claims that a silicone implant used in a lipstick product was defective.
+153,9934,1794993475.717,106.233,106.068,0.165,34,1,230.8,442.0,The German airline Lufthansa Group has announced it will pay a fee of 16 euros (£11.60) to travel agents on its own websites.
+154,9436,1794993475.805,86.192,86.047,0.145,25,1,230.8,442.0,The BBC has announced a new drama about the children's author Callum Blackman and her daughter Callum.
+155,1961,1794993475.891,85.98,85.82,0.16,25,1,230.8,442.0,Three men have been arrested on suspicion of murdering a man who was shot in the leg in County Antrim.
+156,6409,1794993475.975,83.031,82.872,0.159,24,1,230.8,442.0,Northern Ireland's Euro 2016 qualifier against Ireland in Belfast on Saturday was abandoned after a motorway crash.
+157,1499,1794993476.069,92.418,92.258,0.16,27,1,230.8,442.0,The family of TV star Casey Kasem are suing her husband for allegedly abusing him before he died.
+158,6064,1794993476.148,77.796,77.637,0.159,24,1,230.8,442.0,"Patients in Wales are waiting longer than the six-month target for heart surgery, a leading surgeon has warned."
+159,1901,1794993476.254,105.35,105.199,0.151,31,1,230.8,442.0,"You may have been a fan of the BBC's Yourpics, but you may have been a fan of the disaster in Nepal."
+160,596,1794993476.399,143.25,143.087,0.163,43,1,230.8,442.0,"The lawyer for Milly Dowler, who was murdered by a man who was convicted of kidnapping and raping her, has said he has confessed to the crime."
+161,9920,1794993476.481,80.46,80.301,0.159,25,1,230.8,442.0,"The Norwegian government has said it will do ""whatever it can"" to help the victims of the Oslo terror attacks."
+162,354,1794993476.562,80.302,80.146,0.156,23,1,230.8,442.0,"A prison in the Borders has been closed for three days after a ""savage"" incident."
+163,3188,1794993476.627,64.161,64.006,0.155,18,1,230.8,442.0,Two people have been charged after a protest at Londonderry's airport.
+164,3030,1794993476.73,102.242,102.082,0.161,30,1,230.8,442.0,Preston North End have signed Aston Villa defender David Robinson and Ipswich defender David Pringle on two-year deals.
+165,2029,1794993476.858,127.304,127.129,0.174,38,1,230.8,442.0,"Ireland's Olympic and international Olympic committees have been fined £20,000 by the International Olympic Committee (IOC) for failing to inform the athletes about the impact of the Games."
+166,7851,1794993476.939,79.988,79.831,0.157,23,1,230.8,442.0,A man has been charged with the murder of a woman who was hit by a bus in Liverpool.
+167,3450,1794993477.055,114.894,114.729,0.165,34,1,230.8,442.0,A man who stabbed his ex-girlfriend to death with a large stab wound to his thigh has been jailed for life.
+168,1000,1794993477.146,89.787,89.624,0.163,26,1,230.8,442.0,We're a body-loving organisation that's been working with the body for more than a decade.
+169,11130,1794993477.231,83.081,82.924,0.157,26,1,230.8,442.0,A former British soldier has been filmed telling his daughter how he was able to help the Falklands War.
+170,373,1794993477.336,103.564,103.406,0.159,33,1,230.8,442.0,A man in Afghanistan has told the BBC he has been beaten by his wife and beaten by a group of alleged rapists.
+171,8916,1794993477.461,124.162,124.001,0.162,37,1,230.8,442.0,"The Balmoral Show will not be a ""show"" for people who have to sit in queues for a long time, the organisation's chief executive has said."
+172,6973,1794993477.555,92.752,92.593,0.159,27,1,230.8,442.0,"A council could be set up to run all of Oxfordshire's services, if a devolution plan is approved."
+173,10167,1794993477.649,92.804,92.634,0.171,27,1,230.8,442.0,"A dragon has been hailed as a ""dedicated emblem"" of Wales after being crowned by Henry Tudor."
+174,1662,1794993477.739,89.662,89.498,0.165,26,1,230.8,442.0,Australia's women's rink team have won the men's and women's European Championships in Perth.
+175,4258,1794993477.814,73.789,73.632,0.158,21,1,230.8,442.0,Lancashire's County Championship match with Somerset was abandoned after a tense inspection.
+176,1146,1794993477.917,102.012,101.854,0.158,30,1,230.8,442.0,"The number of cruise liner visits to the UK has fallen by more than a third in the past year, according to the harbour master."
+177,3618,1794993478.016,97.793,97.634,0.16,31,1,230.8,442.0,Former England striker Tom Finney has been named as the man who led Lionel Messi to the club's World Cup winning start.
+178,1179,1794993478.092,74.54,74.385,0.156,23,1,230.8,442.0,"More than half of people who received social care help in England were not satisfied with their care, figures show."
+179,10599,1794993478.16,67.318,67.162,0.156,19,1,230.8,442.0,A pumpkin that was born in the US has been named the world's largest pumpkin.
+180,4932,1794993478.268,106.428,106.265,0.163,34,1,230.8,442.0,"It's been a year since the BBC One show was filmed, but it's been a year since Sanjay Soloman was fired."
+181,5739,1794993478.374,105.471,105.312,0.159,31,1,230.8,442.0,Brazilian authorities have agreed to pay billions of dollars to the companies involved in the collapse of a mine in the city of Rio de Janeiro.
+182,7144,1794993478.453,77.184,77.027,0.157,24,1,230.8,442.0,It's a day when the world's most famous cyclists are battling to win Olympic gold.
+183,2954,1794993478.524,70.481,70.324,0.157,20,1,230.8,442.0,Wales' Euro 2016 hopes were boosted by a 2-1 victory over Wales in Cardiff.
+184,8251,1794993478.603,77.299,77.141,0.158,24,1,230.8,442.0,"The UK should strengthen its regulatory system if it is to conduct more fracking, a report says."
+185,7653,1794993478.674,70.766,70.493,0.273,20,1,230.8,442.0,England lock Alex Healy will miss the rest of the season with a knee injury.
+186,645,1794993478.731,55.245,55.061,0.185,15,1,230.8,442.0,A skeleton has been found at the Corn Exchange in Brighton.
+187,9772,1794993478.831,99.243,99.079,0.164,29,1,230.8,442.0,St Helens midfielder Chris Stephens says he is confident his side can bounce back from a relegation battle.
+188,1653,1794993478.893,61.022,60.864,0.158,17,1,230.8,442.0,The author of the controversial Oz magazine has died at the age of 83.
+189,3266,1794993478.996,102.131,101.971,0.16,30,1,230.8,442.0,A lorry has been thrown into a ditch after a lorry delivered to a road in the south of Scotland.
+190,4262,1794993479.106,108.66,108.499,0.161,32,1,230.8,442.0,"A Pony group has said it is ""reluctant"" to allow herds of Dartmoor Hill to be kept for the first time."
+191,5874,1794993479.182,74.702,74.538,0.164,23,1,230.8,442.0,The BBC's Victoria News website has been promoting the idea of women being offered extra days to work.
+192,7704,1794993479.235,51.9,51.744,0.156,14,1,230.8,442.0,The chief executive of Aberdeen City Council has been sacked.
+193,9335,1794993479.319,83.271,83.107,0.165,26,1,230.8,442.0,Kilmarnock scored two goals in three minutes to beat Hearts and move up to third in the Scottish Premiership.
+194,2775,1794993479.407,86.371,86.212,0.159,25,1,230.8,442.0,"Sudan's President Bashir has appointed two new ministers, including one in his first post since his inauguration."
+195,11020,1794993479.497,89.392,89.236,0.157,26,1,230.8,442.0,A woman has been charged with drink-driving after she was found with a lorry in her car.
+196,3332,1794993479.575,77.147,76.995,0.152,22,1,230.8,442.0,Laura Muir will be the first Scot to compete in the European Indoor Championships in Serbia.
+197,951,1794993479.68,103.757,103.598,0.159,30,1,230.8,442.0,Johnny Sexton and Joe O'Brien will miss Ireland's Test against Scotland on Tuesday after a hamstring injury.
+198,11078,1794993479.783,102.273,102.113,0.16,30,1,230.8,442.0,A man has been rescued from a nightclub after he was spotted posing as a sex offender.
+199,2592,1794993479.856,71.895,71.735,0.159,22,1,230.8,442.0,Lincoln City moved into the third round of the FA Cup with a 3-2 victory over Oldham.
+200,2653,1794993479.96,102.45,102.285,0.165,30,1,230.8,442.0,Ulster's hopes of a place in the GAA Cup ended in defeat as Connacht fought back to beat Galway.
+201,5608,1794993480.031,70.74,70.586,0.154,20,1,230.8,442.0,"At least 900 people have been killed in a massive earthquake in Nepal, officials say."
+202,8674,1794993480.119,86.36,86.201,0.159,25,1,230.8,442.0,West Ham striker Danny Carroll has been ruled out for the rest of the season after suffering a knee injury.
+203,4107,1794993480.171,51.772,51.626,0.147,14,1,230.8,442.0,A man has denied killing a man in Cumbria.
+204,1920,1794993480.271,97.914,97.754,0.16,31,1,230.8,442.0,"Scientists have recreated the huge sauropods of the Jurassic period, which were the largest to walk on land."
+205,9777,1794993480.355,83.534,83.347,0.188,24,1,230.8,442.0,"The government has a lot of problems with the security system, but it's not a big deal."
+206,7246,1794993480.449,92.943,92.79,0.153,27,1,230.8,442.0,A Tesco shopkeeper has been fined £75 after he threw a milk bottle at a supermarket.
+207,10905,1794993480.509,58.153,57.995,0.158,16,1,230.8,442.0,Three teenagers who were reported missing in London have been released without charge.
+208,2864,1794993480.609,99.426,99.266,0.16,29,1,230.8,442.0,"Two Met Police officers have been awarded £11,900 in damages after they were convicted of racially abusing two teenagers."
+209,216,1794993480.691,80.39,80.231,0.159,23,1,230.8,442.0,Colombia and Norway have agreed to hold talks on a ceasefire between the two rebel groups in the country.
+210,7727,1794993480.781,89.633,89.474,0.159,26,1,230.8,442.0,Southampton manager Paul Puel has confirmed the club are interested in signing midfielder Jermaine van Dijk.
+211,11162,1794993480.861,77.871,77.714,0.157,24,1,230.8,442.0,"I'm a video game designer, and I'm a bit nervous about the way I work."
+212,6715,1794993480.963,100.624,100.461,0.163,32,1,230.8,442.0,"The British government has declared a state of emergency in Kenya, a year after the death toll from the Mau Mau rebellion rose to 11,000."
+213,9324,1794993481.101,136.057,135.889,0.167,44,1,230.8,442.0,"A Kurdish farmer, who lived in the northern Iraqi town of Wana for more than a decade, has said he is ""deeply concerned"" about the dangers of the dam."
+214,8332,1794993481.221,118.378,118.212,0.165,38,1,230.8,442.0,A Swedish study has found that a hospital in the city of Gothenburg has been shortened to eight-hour days for a study of the health of its elderly patients.
+215,5102,1794993481.399,176.899,176.731,0.168,58,1,230.8,442.0,"It's a bit of a sigh of relief for Munster's former head coach and head coach, but for the first time, he's been a savage, savage and a savage player."
+216,10632,1794993481.493,93.106,92.946,0.16,27,1,230.8,442.0,A man has been arrested on suspicion of raping a 15-year-old girl in a car in Birmingham.
+217,5851,1794993481.584,89.969,89.808,0.161,26,1,230.8,442.0,BBC Northern Ireland broadcaster Gerry Anderson has been inducted into the PPI hall of fame in the Republic of Ireland.
+218,6367,1794993481.695,109.795,109.626,0.169,35,1,230.8,442.0,England's former captain and former captain Ben Stokes says he will not be able to win the World Twenty20 after a sex attack in 2014.
+219,10774,1794993481.767,70.814,70.655,0.159,20,1,230.8,442.0,"Ireland's women won the first ever European Championships in Vaasa, Sweden."
+220,4111,1794993481.838,70.743,70.474,0.268,20,1,230.8,442.0,"Former Wimbledon champion Andy Murray has married his girlfriend Kim, who has been having a baby."
+221,2513,1794993481.901,60.638,60.479,0.159,18,1,230.8,442.0,"Michelle Terry has been appointed as Shakespeare's new director, the BBC has learned."
+222,9184,1794993481.979,77.606,77.449,0.157,22,1,230.8,442.0,The United Nations has voted to end a campaign to select Wonder Woman as its new secretary general.
+223,11318,1794993482.074,92.822,92.659,0.163,29,1,230.8,442.0,Cambridge and Stevenage both suffered a first defeat in four games as they were held to a goalless draw at the Memorial Stadium.
+224,203,1794993482.142,67.804,67.647,0.157,19,1,230.8,442.0,A former police chief has resigned after appearing on BBC One's Question Time.
+225,7503,1794993482.251,107.21,107.045,0.165,34,1,230.8,442.0,The President of the United States has said that the Paris climate agreement will only produce two-tenths of one degree of Celsius reduction by the year 2100.
+226,1295,1794993482.332,80.321,80.163,0.158,23,1,230.8,442.0,A police helicopter has been unable to catch a suspicious object after pointing a laser at aircraft.
+227,5503,1794993482.433,98.775,98.61,0.165,31,1,230.8,442.0,"The police chief of the National Police Service in the Republic of Ireland has been replaced by Hilton Botha, the man accused of murdering his girlfriend."
+228,748,1794993482.498,64.668,64.519,0.149,18,1,230.8,442.0,A woman has appeared in court charged with preventing the burial of a baby.
+229,8918,1794993482.592,93.046,92.886,0.159,27,1,230.8,442.0,A council has apologised after a former education minister was given a pension in a row over sexual abuse.
+230,4601,1794993482.68,86.873,86.715,0.158,25,1,230.8,442.0,The Scottish island of Barra has been officially officially recognised as an airport for the first time in more than 50 years.
+231,2209,1794993482.761,80.167,80.01,0.158,23,1,230.8,442.0,Trains have been pulled off the rail line in the north Wales coast due to a lack of capacity.
+232,3934,1794993482.846,83.362,83.204,0.158,24,1,230.8,442.0,Three men have been jailed for attempting to smuggle migrants into the UK into the UK.
+233,7894,1794993482.948,100.622,100.46,0.163,32,1,230.8,442.0,Cyprus's president has said he will address the country's parliament in a bid to ratify the country's bailout deal.
+234,5770,1794993483.003,53.892,53.734,0.158,16,1,230.8,442.0,A shallow grave has been found in Australia's greyhound racing industry.
+235,9996,1794993483.078,73.904,73.748,0.157,21,1,230.8,442.0,A man has died after being attacked by two men in a car park in Rhyl.
+236,4716,1794993483.137,58.116,57.961,0.155,16,1,230.8,442.0,The winners of the 2017 Irish Book of the Year award have been announced.
+237,11033,1794993483.214,75.28,75.124,0.156,23,1,230.8,442.0,"Labour leader Jeremy Corbyn has said he is ""determined"" to take the party to power."
+238,5885,1794993483.299,83.461,83.301,0.16,26,1,230.8,442.0,Denmark reached the Women's European Women's Cup final with a 0(3) penalty shootout win over Austria.
+239,9671,1794993483.407,106.691,106.529,0.162,34,1,230.8,442.0,"A young woman has been told to ""drive her up to Broadcasting House"" twice a day to do the bongs of the Tower of Westminster."
+240,10383,1794993483.495,86.449,86.293,0.157,27,1,230.8,442.0,A landscape gardener who was a renowned architect for his dazzling landscape has been honoured with a new home.
+241,10175,1794993483.598,102.349,102.188,0.161,30,1,230.8,442.0,Maxime Biamou scored twice as Sutton thrashed Gateshead to move into the National League play-off places.
+242,2168,1794993483.721,121.38,121.2,0.18,36,1,230.8,442.0,A group of children who were taken to a camp in the middle of the night by a group of security guards are to be reunited with their families.
+243,5083,1794993483.806,83.658,83.503,0.155,24,1,230.8,442.0,A church in Lincolnshire has been lit up after a flood-hit building was switched on by the BBC.
+244,6357,1794993483.9,92.504,92.334,0.17,29,1,230.8,442.0,The bodies of actress Sian Blake and her two young sons have been found in the garden of her home in south-east London.
+245,6789,1794993484.015,114.804,114.64,0.164,34,1,230.8,442.0,Kyle Wootton's late goal helped Scunthorpe to a draw at home to League One side Wootton Town.
+246,10663,1794993484.105,89.379,89.22,0.159,26,1,230.8,442.0,A woman from the West Midlands has made a special cake to mark the 100th anniversary of the Harry Potter birthday.
+247,1322,1794993484.176,69.098,68.928,0.17,21,1,230.8,442.0,"The London terror attack could be over, or the security service is a bit overly busy."
+248,24,1794993484.239,61.406,61.251,0.155,17,1,230.8,442.0,A couple from the Highlands have married in a snowsports centre.
+249,9741,1794993484.37,129.938,129.744,0.194,42,1,230.8,442.0,"The murder of a Hong Kong woman and her husband by the late banker Rurik Jutting has been described as a ""serious and a gilded"" crime."
+250,3150,1794993484.456,83.943,83.784,0.158,26,1,230.8,442.0,Gaia Winton has won the annual Winton Prize for her book about the impact of human activity on the planet.
+251,5478,1794993484.537,80.271,80.008,0.263,23,1,230.8,442.0,A new motorway will be built on the M42 in Bristol to help drivers get better on the road.
+252,2622,1794993484.616,76.959,76.799,0.16,22,1,230.8,442.0,The former solicitor general for the Scottish Crown has announced he will step down as the new solicitor general.
+253,3922,1794993484.694,77.196,77.034,0.162,24,1,230.8,442.0,Scott Ferguson says he was impressed by the quality of his Rangers side's goalless draw with Celtic.
+254,3655,1794993484.763,67.469,67.311,0.158,19,1,230.8,442.0,Crystal Palace have rejected a bid for Crystal Palace striker Darren Bolasie.
+255,10443,1794993484.812,48.533,48.377,0.155,13,1,230.8,442.0,A fire has broken out at a house in Suffolk.
+256,7342,1794993484.926,112.73,112.565,0.165,36,1,230.8,442.0,"French President Francoise Goulard has resigned from the cabinet, a day after the government announced plans to ban politicians from hiring members of their own family."
+257,6203,1794993485.007,80.406,80.249,0.157,23,1,230.8,442.0,Everton have agreed to build a new village in Liverpool to help them build a new stadium.
+258,11039,1794993485.098,89.612,89.452,0.159,26,1,230.8,442.0,Borussia Dortmund have signed teenage defender Emmanuel Lennon from Rennes for an undisclosed fee.
+259,9308,1794993485.183,83.389,83.231,0.158,26,1,230.8,442.0,Israel's former mayor Ehud Olmert has been jailed for seven years for corruption and corruption.
+260,516,1794993485.283,99.172,99.015,0.158,29,1,230.8,442.0,"A bird flu outbreak at a farm in Boston has been confirmed, the Department for Environment, Defence (Defra) has confirmed."
+261,6590,1794993485.359,74.882,74.716,0.166,23,1,230.8,442.0,"The UK's first solar-powered satellite, Solar Orbiter, is to be launched in London."
+262,9297,1794993485.464,103.713,103.553,0.161,33,1,230.8,442.0,A man has been found guilty of raping a 15-year-old girl in a sex-related incident in the 1970s.
+263,6852,1794993485.58,114.975,114.813,0.162,34,1,230.8,442.0,A zoo in Australia has been flooded with mittens to help a baby kangaroo recover from the worst bushfires.
+264,10849,1794993485.709,127.378,127.216,0.162,41,1,230.8,442.0,"The Turkish government says it has seized a Turkish wedding party from so-called Islamic State (IS) in Syria, amid reports that the attack may have been motivated by a Syrian rebel."
+265,766,1794993485.815,105.498,105.336,0.162,31,1,230.8,442.0,"German police have seized a number of explosives at the stadium in Berlin, a day after the Euro 2016 friendly between the two sides."
+266,2714,1794993485.9,83.561,83.401,0.16,24,1,230.8,442.0,Britain's Jo-Anne Tutton won the men's 200m freestyle title in the Netherlands.
+267,7296,1794993485.991,89.067,88.906,0.161,28,1,230.8,442.0,A German artist who died after suffering heart surgery has agreed to return his paintings to the public after a scathing investigation.
+268,1046,1794993486.056,64.378,64.222,0.156,18,1,230.8,442.0,Maria Garcia and Maria Mladenovic won their first Grand Slam titles in the Netherlands.
+269,4247,1794993486.159,102.317,102.154,0.163,30,1,230.8,442.0,The organisers of the Rock am Ring music festival in Germany have resigned after a lightning strike caused the event to be closed.
+270,2583,1794993486.235,74.569,74.417,0.153,23,1,230.8,442.0,"Georgia's President, Gianni Saakashvili, has died at the age of 87."
+271,7313,1794993486.331,94.863,94.702,0.161,30,1,230.8,442.0,"Plaid Cymru leader Leanne Wood has said she is ""able to speak to people"" in the wake of her election campaign."
+272,8643,1794993486.39,57.351,57.19,0.161,17,1,230.8,442.0,Welsh artist and artist Liz Williams is to unveil her first collection of her own.
+273,7983,1794993486.471,80.165,80.006,0.159,23,1,230.8,442.0,Former England and Wales coach Stuart Lancaster has been appointed as the new head coach of the Toulon team.
+274,9198,1794993486.539,67.472,67.315,0.157,19,1,230.8,442.0,India beat Sri Lanka by a wicket in the second Test in the Indian Premier League.
+275,9895,1794993486.683,143.059,142.813,0.246,43,1,230.8,442.0,The FBI has issued a sworn statement to the court in London to investigate a sex crime scandal at the home of a woman who was allegedly a victim of the hack.
+276,1,1794993486.774,89.431,89.274,0.158,26,1,230.8,442.0,A man has been charged with firearms offences after a police investigation into a series of raids in Edinburgh.
+277,637,1794993486.859,83.914,83.749,0.165,24,1,230.8,442.0,Jeremy Hunt is calling for a cross-party review of the 14-19 GCSE system in England.
+278,8103,1794993486.971,111.638,111.477,0.161,33,1,230.8,442.0,A memorial has been unveiled to mark the centenary of the death of a soldier who died in the Battle of the Boar's Head.
+279,5340,1794993487.08,107.813,107.653,0.159,32,1,230.8,442.0,"A man has been arrested in the Indian capital, Urdu, after a protest at a temple in the city of Aap Shamboo."
+280,5112,1794993487.132,51.753,51.599,0.154,14,1,230.8,442.0,"A British man has been found dead in Myanmar, police say."
+281,7649,1794993487.214,80.537,80.374,0.163,23,1,230.8,442.0,A group of landowners has been given guidance on how to handle dog-walking on their land.
+282,816,1794993487.305,89.441,89.282,0.159,26,1,230.8,442.0,"At least 20 people have been killed in air strikes on Syrian cities in the capital, Raqqa, activists say."
+283,6801,1794993487.37,64.088,63.931,0.157,18,1,230.8,442.0,A light aircraft has crashed in a field in Stoke-on-Trent.
+284,3080,1794993487.454,82.927,82.767,0.159,24,1,230.8,442.0,Arsenal have signed defender Krystian Bielik from Legia for an undisclosed fee.
+285,8987,1794993487.55,95.8,95.642,0.159,28,1,230.8,442.0,A US tribe has said it will not be able to sell marijuana to non-tribal members of its tribe in the US.
+286,10372,1794993487.632,80.502,80.345,0.157,25,1,230.8,442.0,Northern Ireland's economy and the border with the Republic of Ireland are being questioned by a Northern Ireland committee.
+287,1367,1794993487.76,126.637,126.477,0.16,41,1,230.8,442.0,Armagh's hopes of a League Two play-off place were ended as they were beaten 0-15 to 0-11 by Laois in the final game of the season.
+288,2138,1794993487.853,91.66,91.495,0.165,29,1,230.8,442.0,Leeds United manager Antonio Cellino says he will buy a bus to help the club cope with the loss of £30m.
+289,241,1794993487.95,95.603,95.445,0.158,28,1,230.8,442.0,Japanese electronics giant Toshiba is to seek to buy a further £4bn of cash to help it balance its books.
+290,6583,1794993488.014,62.812,62.658,0.154,19,1,230.8,442.0,The Syrian government is in talks with Arab and Western sources about the future of the country.
+291,11116,1794993488.102,86.502,86.343,0.159,25,1,230.8,442.0,A former chief executive of a Welsh health board has called for a debate on funding for cancer treatment in Wales.
+292,6840,1794993488.187,83.554,83.395,0.159,24,1,230.8,442.0,"The Bank of England has ""sailed through"" the Brexit vote, its chief economist Mark Carney has said."
+293,55,1794993488.268,80.218,80.065,0.152,23,1,230.8,442.0,A US investigation into the release of To Kill a Mockingbird by author Lee has been launched.
+294,3498,1794993488.384,114.942,114.78,0.162,34,1,230.8,442.0,Lancashire's Liam Livingstone took a century to help his side beat Nottinghamshire by 62 runs in the first day of the County Championship.
+295,234,1794993488.459,74.182,74.026,0.156,21,1,230.8,442.0,Gloucester have been given the go-ahead to build a new ground for their new home.
+296,38,1794993488.556,96.063,95.904,0.159,28,1,230.8,442.0,Bury have signed midfielder Ryan Brown on a two-year deal after he was released by the League One club.
+297,11071,1794993488.652,95.093,94.937,0.156,30,1,230.8,442.0,The Scottish government has said it will return all of the powers relating to Brexit in the Queen's Speech to Holyrood.
+298,8656,1794993488.741,87.04,86.856,0.185,27,1,230.8,442.0,Down boosted their chances of a Division Two victory over Meath in the first round of the Sigerson Cup.
+299,10028,1794993488.836,93.843,93.676,0.167,27,1,230.8,442.0,"The Afghan government has retaken the centre of Sangin province, the capital of Helmand, from the Taliban."
+300,1602,1794993488.892,54.281,54.122,0.159,16,1,230.8,442.0,The BBC's Disability Works series is taking place in London this week.
+301,3120,1794993488.995,102.137,101.977,0.16,30,1,230.8,442.0,"A man who has died aged 73 has been described as a ""loving, generous and generous"" philanthropist."
+302,1948,1794993489.093,95.889,95.73,0.159,30,1,230.8,442.0,The Vatican has replaced a former bank that was sacked by the Catholic Church in Italy in a bid to tackle corruption and corruption.
+303,9967,1794993489.152,58.312,58.157,0.155,16,1,230.8,442.0,Australia has announced it will send more troops to Afghanistan to fight the Taliban.
+304,10637,1794993489.243,89.371,89.213,0.158,28,1,230.8,442.0,Colombia's government and the Farc rebel group have announced they will send unarmed observers to the UN to help end the conflict.
+305,3252,1794993489.344,99.715,99.555,0.16,29,1,230.8,442.0,"Uefa president Michel Platini will not be re-elected in the next election, the French Football Federation has said."
+306,4954,1794993489.46,114.885,114.729,0.156,34,1,230.8,442.0,"The world's largest chess game, the World Chess Championship, has been held in New York by the late Russian defender Karjakin."
+307,4587,1794993489.554,92.77,92.608,0.162,27,1,230.8,442.0,Open AI has pledged $1bn (£1bn) to help fund research into human-level artificial intelligence.
+308,11281,1794993489.645,89.839,89.678,0.161,26,1,230.8,442.0,"(Close): US stocks closed higher on Friday, boosted by a strong economic performance from the US economy."
+309,2985,1794993489.754,108.659,108.361,0.298,32,1,230.8,442.0,Chris Holroyd's late goal gave Dover a 2-1 win at Macclesfield to move up to second in the National League.
+310,1641,1794993489.869,113.018,112.854,0.163,36,1,230.8,442.0,"A US doctor who was dragged down the aisle by United Airlines in 1975 has said he was ""terrified and harrowing"" by the incident."
+311,7792,1794993490.014,143.311,143.147,0.164,43,1,230.8,442.0,Ireland manager Gareth Schmidt says his side's confidence was dented as they lost a tense 2-1 win over Argentina in the first of their three-match tour of the United States.
+312,6499,1794993490.086,71.389,71.235,0.154,20,1,230.8,442.0,A woman has solved a mystery mystery after a painting was found with gold and gold.
+313,10283,1794993490.164,76.924,76.766,0.158,22,1,230.8,442.0,A football club has been forced to cancel all football matches after travellers were forced to leave their car park.
+314,1332,1794993490.296,130.601,130.436,0.165,39,1,230.8,442.0,Malaysia's culture ministry has cancelled a concert in Kuala Lumpur because of a photo of singer Ayada Badu featuring a tattoo on her body.
+315,357,1794993490.377,80.1,79.943,0.157,23,1,230.8,442.0,A public inquiry into the future of a new road on a former RAF site has been launched.
+316,4500,1794993490.476,97.819,97.658,0.161,31,1,230.8,442.0,The Gambia's military has threatened to intervene militarily if President Yahya Jammeh fails to leave the country.
+317,7421,1794993490.602,124.679,124.518,0.161,37,1,230.8,442.0,"Dundee's architect has said he is ""very pleased"" to see the progress of the construction of the city's new National Museum of Art (BAM)."
+318,1896,1794993490.681,77.604,77.446,0.157,24,1,230.8,442.0,Leyton Orient slipped to the bottom of the National League with a comfortable victory at Crawley.
+319,4202,1794993490.784,101.013,100.85,0.163,32,1,230.8,442.0,"The number of people applying to vote in the UK's general election has risen by more than a third, the electoral watchdog has said."
+320,2185,1794993490.858,73.79,73.611,0.179,21,1,230.8,442.0,A man has been arrested on suspicion of child sex offences in Anglesea.
+321,10708,1794993490.93,70.783,70.623,0.16,20,1,230.8,442.0,Residents in a ward in East Sussex have voted to rehome their homes.
+322,8533,1794993491.011,80.375,80.217,0.158,23,1,230.8,442.0,A protest has been held against the treatment of a man who was beaten by police in east London.
+323,10662,1794993491.118,105.327,105.165,0.162,31,1,230.8,442.0,"A man who died in a gas explosion thought he was a ""flight crash"" in the street, an inquest has heard."
+324,10566,1794993491.224,105.181,105.02,0.16,31,1,230.8,442.0,"The Afghan government has stepped up its efforts to eradicate the illegal opium from the country's poppy farm, according to the UN."
+325,5686,1794993491.307,80.793,80.635,0.158,25,1,230.8,442.0,"A logger from Brazil, Dedel, has been astonished by the impact of his logging career."
+326,1885,1794993491.403,94.846,94.686,0.16,30,1,230.8,442.0,"Sierra Leone's President, Manuel Koroma, has voted to back a controversial abortion law which has been passed by parliament."
+327,2530,1794993491.487,82.93,82.773,0.158,26,1,230.8,442.0,"The inquiry into the Grenfell Tower fire should be split into two parts, Jeremy Corbyn has said."
+328,4561,1794993491.595,106.172,106.006,0.166,34,1,230.8,442.0,A Scottish woman who was unable to travel to Australia for a visit to the UK has been rescued after her family were told she could be deported.
+329,304,1794993491.729,133.428,133.261,0.167,40,1,230.8,442.0,"Oil giant Tullow has reported a loss of £4bn for the year to March, despite the company's warning that the sector could be ""in danger of falling""."
+330,693,1794993491.811,79.968,79.808,0.159,25,1,230.8,442.0,"US pop star Kanye West has said he is ""depressed"" by his decision to run for president."
+331,666,1794993491.885,73.443,73.283,0.161,21,1,230.8,442.0,A care home has been warned to be reopened after a number of concerns were raised.
+332,3370,1794993491.964,77.102,76.944,0.157,24,1,230.8,442.0,A football club is to be reunited with a new film about the club's underdogs.
+333,11157,1794993492.044,79.742,79.584,0.159,23,1,230.8,442.0,A Canadian government inquiry into the deaths of a number of women and girls in the 1990s has begun.
+334,4254,1794993492.12,74.373,74.214,0.159,23,1,230.8,442.0,A judge has quashed a legal challenge to the decision to stop loyalist protests in Belfast.
+335,9148,1794993492.222,100.448,100.289,0.159,32,1,230.8,442.0,The leader of the Zanzibar archipelago has called for a change in the country's electoral system to be scrapped.
+336,5156,1794993492.319,95.298,95.109,0.189,30,1,230.8,442.0,The Irish government has said that putting customs checks on the Irish border is not the answer to the post-Brexit crisis.
+337,6011,1794993492.405,83.992,83.738,0.254,26,1,230.8,442.0,"More than half of England's schools will have new places in the next five years, according to the Local Government Association."
+338,688,1794993492.479,72.523,72.362,0.161,22,1,230.8,442.0,Police in Northern Ireland have been criticised for failing to properly investigate the extent of child sexual exploitation.
+339,9954,1794993492.578,98.386,98.222,0.163,31,1,230.8,442.0,"Newcastle United owner Mike Ashley has said he is ""shan"" about selling his players after the club's 2-0 win over West Ham."
+340,10737,1794993492.672,92.53,92.369,0.161,27,1,230.8,442.0,"Axiom, the UK's largest legal firm, is to create a further 190 jobs in Belfast."
+341,8101,1794993492.747,73.823,73.666,0.157,21,1,230.8,442.0,Scientists have developed a new tipple to help tackle food poisoning and stomach upsets.
+342,10553,1794993492.825,76.891,76.732,0.159,22,1,230.8,442.0,A bank has been forced to cancel its ATM after a cash machine was unable to return money.
+343,7514,1794993492.927,101.79,101.631,0.159,30,1,230.8,442.0,"A motion to cancel a rally in Dublin has been lodged by the republican leader of the Republic of Ireland, Jeremy Frazer."
+344,10488,1794993493.015,86.223,86.064,0.16,25,1,230.8,442.0,A company which was forced to remove waste from a fire-damaged warehouse in Manchester has been resigned.
+345,7134,1794993493.094,78.132,77.975,0.156,24,1,230.8,442.0,England's batsmen suffered a shock defeat in the second Test against Bangladesh in Chittagong.
+346,6102,1794993493.159,64.249,64.088,0.162,18,1,230.8,442.0,A woman from Dorset has been reported missing after a search operation in Thailand.
+347,8813,1794993493.274,114.348,114.186,0.162,34,1,230.8,442.0,League Two side Southend United have signed striker Jermaine Makris on a two-year deal after he was released by Birmingham City.
+348,2921,1794993493.373,97.505,97.353,0.151,31,1,230.8,442.0,Warrenpoint United will face a relegation battle at Taylor's Avenue on Monday night after a 2-0 defeat by Linfield.
+349,3405,1794993493.477,102.542,102.376,0.166,30,1,230.8,442.0,The former chief inspector of the Grenfell Tower inquiry has written to the government asking for an inquiry into the fire safety of the building.
+350,6153,1794993493.568,90.016,89.853,0.163,26,1,230.8,442.0,"A father who won a court battle over a school holiday has raised more than £1,000 in a crowdfunding campaign."
+351,9619,1794993493.634,64.598,64.41,0.187,18,1,230.8,442.0,A man has broken a world record for the fastest time in a marathon.
+352,4768,1794993493.716,81.114,80.948,0.166,25,1,230.8,442.0,The world's fastest sprinter has been a thorny figure for the first time in his career.
+353,145,1794993493.82,101.714,101.547,0.166,32,1,230.8,442.0,The 'Good Doctor's dream of becoming a Super League club has been a hugely harrowing moment for the RFL.
+354,2268,1794993493.894,73.972,73.811,0.161,21,1,230.8,442.0,A bus driver has been offered a 24-hour strike in Cardiff after a ballot was rejected.
+355,2474,1794993493.974,78.177,78.035,0.141,24,1,230.8,442.0,"A new vaccine has been shown to be a ""significant and significant"" impact on cervical cancers in Scotland."
+356,4446,1794993494.141,165.712,165.544,0.168,54,1,230.8,442.0,It's a big question for Labour's fiscal policy - whether it's a tax rise or a tax-free tax threshold - but it's a question that is a bit of a prudence.
+357,5462,1794993494.211,67.898,67.741,0.157,19,1,230.8,442.0,"A hospital in Staffordshire has been rated ""good"" by the health watchdog."
+358,5529,1794993494.282,70.868,70.711,0.156,20,1,230.8,442.0,A Scottish arts organisation has resigned after a row over the appointment of two directors.
+359,6016,1794993494.383,99.245,99.083,0.162,29,1,230.8,442.0,The home secretary has asked East Sussex's police and crime commissioner (PCC) to consider bringing two fire services under her authority.
+360,1535,1794993494.477,93.038,92.88,0.158,27,1,230.8,442.0,A train has been re-opened to the public after a campaign to save the lives of thousands of commuters.
+361,5541,1794993494.549,71.068,70.913,0.155,20,1,230.8,442.0,A contest to celebrate the achievements of women in India's Haryana state has been held.
+362,10166,1794993494.641,90.21,90.053,0.158,26,1,230.8,442.0,"The world's top universities are slipping away from the rest of the world, according to a new global rankings."
+363,584,1794993494.711,68.757,68.599,0.159,21,1,230.8,442.0,A pilot has begun carrying a vaccine to help prevent the spread of the Ebola virus.
+364,675,1794993494.827,115.198,115.037,0.161,34,1,230.8,442.0,A mother and her baby were robbed in a balaclava and robbed by a gang of men who stole cash and jewellery.
+365,4417,1794993494.944,115.342,115.183,0.16,34,1,230.8,442.0,A father who has been unable to drink from a blue cup has been contacted by a UK-based company to help his son's family.
+366,2684,1794993495.023,77.816,77.65,0.165,24,1,230.8,442.0,The Scottish government has announced that broadband services in the Borders will be upgraded to the areas where they need it.
+367,2448,1794993495.096,71.73,71.571,0.159,22,1,230.8,442.0,"Women born to overweight mothers should be able to keep their babies healthy, according to a study."
+368,9559,1794993495.172,74.044,73.883,0.162,21,1,230.8,442.0,"A seaside town is to be transformed into a tourist attraction with a £500,000 grant."
+369,4743,1794993495.262,89.591,89.432,0.158,26,1,230.8,442.0,Motherwell have confirmed that the SPFL will not be able to train players ahead of Saturday's game against Celtic.
+370,5913,1794993495.315,51.384,51.228,0.156,15,1,230.8,442.0,The News Letter is a big day for the Northern Ireland Assembly.
+371,6468,1794993495.389,73.868,73.71,0.158,21,1,230.8,442.0,Burnley manager Eddie Howe has signed a new two-year contract with the Championship club.
+372,8986,1794993495.486,95.362,95.202,0.16,30,1,230.8,442.0,"The government is considering introducing forests to floodplains in the wake of the recent flooding, according to a study by the Environment Agency."
+373,2124,1794993495.571,83.409,83.251,0.158,24,1,230.8,442.0,Jockey Michael Moore has been ruled out of the York Marathon because of a hamstring injury.
+374,4807,1794993495.674,102.415,102.252,0.163,30,1,230.8,442.0,Carlisle United have signed midfielder Brandon Comley from League Two side Islington Town on a two-year deal.
+375,1882,1794993495.773,98.7,98.545,0.155,29,1,230.8,442.0,A man has been arrested on suspicion of murder after a man was killed in a hit-and-run crash in Bedfordshire.
+376,7832,1794993495.867,91.989,91.83,0.159,29,1,230.8,442.0,"A US man has confessed to a plot to smuggle weapons into North Korea, the US Supreme Court has said."
+377,3927,1794993495.948,80.327,80.169,0.158,23,1,230.8,442.0,A teacher who was accused of a plot to influence pupils at a school has been cleared of misconduct.
+378,790,1794993496.024,74.511,74.354,0.157,23,1,230.8,442.0,Scottish Labour leader Kezia Dugdale has called for the SNP to help cut jobs in Scotland.
+379,5044,1794993496.171,146.244,146.079,0.165,44,1,230.8,442.0,"Poland's President Jean-Claude Pohorecki says he is ""surprised"" by the Euro 2012 programme which he says will be ""a little bit better"" for the next tournament."
+380,2942,1794993496.256,83.526,83.357,0.169,24,1,230.8,442.0,Sinn Fein's Martin McGuinness has been reappointed as the deputy first minister of Northern Ireland.
+381,8569,1794993496.341,83.623,83.466,0.157,26,1,230.8,442.0,Sports Direct founder Dave Forsey has resigned after a row over his role as a senior executive.
+382,1161,1794993496.416,74.067,73.91,0.157,21,1,230.8,442.0,A pier in the Welsh Sea is being sold for £8m to a private company.
+383,4958,1794993496.536,118.642,118.474,0.168,38,1,230.8,442.0,The auditor general has ruled that the Northern Ireland Timber Company (NRW) should have agreed a 10-year-long contract to buy timber from a sawmill in Cardiff.
+384,6605,1794993496.624,86.301,86.139,0.162,25,1,230.8,442.0,Hundreds of homes in a Sussex village have been told they cannot access broadband because of a lack of broadband.
+385,5382,1794993496.698,74.008,73.84,0.168,21,1,230.8,442.0,A town in the southern Italian town of Tomatina has been celebrating its 50th birthday.
+386,4902,1794993496.815,115.244,115.084,0.161,34,1,230.8,442.0,Four young Italians have been arrested on suspicion of stealing money from a young gang of young delinquents in the Italian city of Rome.
+387,6794,1794993496.934,118.403,118.239,0.165,35,1,230.8,442.0,National League side Plymouth Argyle have signed Barrow defender Ruairi Anderson and defender Rory Keating on loan until the end of the season.
+388,1780,1794993497.027,92.762,92.601,0.161,27,1,230.8,442.0,A man has been arrested on suspicion of attempted murder after a man was stabbed in the chest in Londonderry.
+389,1628,1794993497.104,75.604,75.447,0.157,21,1,230.8,442.0,Rafael Nadal has become the first British man to set a new world record for tennis.
+390,9188,1794993497.22,115.663,115.502,0.161,34,1,230.8,442.0,"A council tax rise in Liverpool is a ""serious step"" towards reducing the number of people staying in the city, a report has said."
+391,7883,1794993497.308,86.59,86.433,0.157,27,1,230.8,442.0,"You have never said that, if you have ever been a troll, you have never had a friend."
+392,7766,1794993497.403,92.757,92.576,0.181,29,1,230.8,442.0,"Children under 10 are being warned to be able to buy stimulant laxatives in large quantities, according to a charity."
+393,5522,1794993497.5,96.01,95.848,0.161,30,1,230.8,442.0,David Cameron has said he will not be able to answer Jeremy Corbyn's questions at his first PM's Questions.
+394,5630,1794993497.585,83.842,83.68,0.161,26,1,230.8,442.0,Lawyers in England and Wales will be asked to choose a lawyer who will defend them under plans to cut legal aid.
+395,2036,1794993497.635,48.806,48.653,0.153,13,1,230.8,442.0,A man has died after a fire in Greater Manchester.
+396,7849,1794993497.681,45.744,45.59,0.154,12,1,230.8,442.0,England's Victoria Taylor has retired from international cricket.
+397,1900,1794993497.785,102.742,102.581,0.161,30,1,230.8,442.0,"The families of a prisoner killed themselves in a ""serious and complex"" case have rejected a judicial review claim."
+398,8154,1794993497.873,86.556,86.392,0.164,27,1,230.8,442.0,A young man has been a volunteer driver in Tanzania who has been helping to save lives by putting his arms around him.
+399,6988,1794993497.93,55.419,55.264,0.154,15,1,230.8,442.0,A new road has been built in Taunton to ease traffic problems.
+400,619,1794993498.08,148.813,148.649,0.164,48,1,230.8,442.0,"A Chechen politician who sparked a fury on social media after announcing he was a ""foot soldier"" has been reprimanded for his ""hasty outburst""."
+401,4946,1794993498.142,61.467,61.269,0.198,17,1,230.8,442.0,A service has been held to mark the death of rugby league player James Jones.
+402,5489,1794993498.21,67.596,67.438,0.158,19,1,230.8,442.0,The BBC's The Great British Show has been promoting the music of the year.
+403,11257,1794993498.28,67.929,67.773,0.157,19,1,230.8,442.0,A car firm has announced plans to build a new factory in the West Midlands.
+404,2550,1794993498.38,98.752,98.593,0.159,31,1,230.8,442.0,"A woman was ""brutally, brutally murdered"" by a man and woman who dialled 999, a court has heard."
+405,2728,1794993498.492,110.682,110.517,0.165,35,1,230.8,442.0,President Donald Trump has reacted angrily to the news that he is resigning from the United States after a chemical weapons attack in Syria.
+406,10268,1794993498.57,77.247,77.089,0.158,22,1,230.8,442.0,Montrose climbed to the top of League One with a comfortable win over Berwick Rangers.
+407,9248,1794993498.629,57.25,57.09,0.16,17,1,230.8,442.0,A UK company has developed a drone that can be used to control aircraft.
+408,10467,1794993498.688,58.086,57.931,0.155,16,1,230.8,442.0,A man has been arrested in Sydney on suspicion of terrorism offences.
+409,1424,1794993498.767,78.386,78.204,0.182,24,1,230.8,442.0,Northern Ireland's Hannah Smyth and Justin Reid both missed out on the Commonwealth Games in Glasgow on Monday.
+410,1078,1794993498.846,77.647,77.469,0.178,22,1,230.8,442.0,Prince Harry has been taking part in a charity event to help orphaned children in Kenya.
+411,1387,1794993498.934,87.051,86.891,0.161,25,1,230.8,442.0,"American golfer Chris Woods says he is ""feeling good"" about the impact of a back injury."
+412,3244,1794993499.026,90.205,90.04,0.164,28,1,230.8,442.0,"The government is investing £300m to encourage young people to take part in the arts, a Labour inquiry has found."
+413,3621,1794993499.133,105.996,105.835,0.161,31,1,230.8,442.0,A mother who died after being turned away from a hospital because of a lack of baby beds has been told she will not be born again.
+414,1001,1794993499.225,89.735,89.574,0.16,28,1,230.8,442.0,"David Cameron has called for unity at Fifa to be backed by the UK's government to ""move forward together""."
+415,6304,1794993499.335,109.262,109.1,0.162,32,1,230.8,442.0,"Ivory Coast's defender Keshi has been suspended for two games for making ""uncomplimentary"" comments about his international football."
+416,128,1794993499.435,99.689,99.529,0.16,29,1,230.8,442.0,"The Post Office is to walk out of its offices in Londonderry, with the loss of more than a quarter of its branches."
+417,1606,1794993499.555,118.218,118.055,0.163,35,1,230.8,442.0,"A man who was robbed of his car by a police officer has said he was told he would be ""carrying on"" the vehicle."
+418,6452,1794993499.63,74.374,74.217,0.158,21,1,230.8,442.0,Exeter City have signed former Crystal Palace striker James Morrison on a two-year deal.
+419,9117,1794993499.717,86.812,86.655,0.157,25,1,230.8,442.0,A woman has been charged after a dance concert was disrupted by a group of people in the capital.
+420,8503,1794993499.815,96.132,95.974,0.158,28,1,230.8,442.0,"Chinese authorities have arrested a number of people over a deadly explosion in the capital, Tianjin, state media report."
+421,4748,1794993499.893,77.298,77.143,0.156,22,1,230.8,442.0,A California woman who was abducted in November has been found safe and reunited with her family.
+422,7348,1794993499.993,98.727,98.567,0.16,29,1,230.8,442.0,Russia coach Slutsky says he will not be able to take charge of the national side at the 2018 World Cup.
+423,8005,1794993500.058,64.246,64.089,0.157,18,1,230.8,442.0,"Horses are being hampered by angry faces, a study has found."
+424,9582,1794993500.167,108.552,108.39,0.162,32,1,230.8,442.0,Donald Trump has confirmed that he will join the Radio City Rockettes and the Mormon Tabernacle Choir at the inauguration of the US president.
+425,11129,1794993500.258,89.512,89.354,0.158,26,1,230.8,442.0,A teenager has been pictured eating Pringles with her boyfriend while he was on a holiday in the UK.
+426,3559,1794993500.328,68.79,68.632,0.157,21,1,230.8,442.0,Manchester City and Arsenal will face a number of European champions in the Europa League last 32.
+427,6931,1794993500.381,51.961,51.799,0.163,14,1,230.8,442.0,A £100m science research centre in Newcastle has been opened.
+428,1370,1794993500.475,93.122,92.962,0.16,27,1,230.8,442.0,"Liberal Democrat leader Tim Farron has said he is ""absolutely in favour"" of equal access to marriage."
+429,6034,1794993500.555,78.05,77.892,0.157,24,1,230.8,442.0,"Turkey has seized the border with Syria with Turkey, threatening to kill 5,000 people, the UN says."
+430,3606,1794993500.659,102.318,102.158,0.16,30,1,230.8,442.0,Shares in the US and India have fallen sharply after the company's data was manipulated to find out what it's worth.
+431,4274,1794993500.734,74.217,74.059,0.159,21,1,230.8,442.0,A contract to build a new HS2 rail line has been announced by the UK government.
+432,9588,1794993500.803,67.759,67.604,0.155,19,1,230.8,442.0,A teacher who died after being hit by a car has been named by her family.
+433,2729,1794993500.894,89.852,89.692,0.159,26,1,230.8,442.0,"Rangers manager Paul Foderingham says he is ""fantastic"" after a racist incident at the club."
+434,7065,1794993500.962,66.429,66.272,0.157,20,1,230.8,442.0,"The government in Thailand has stepped up its control of the shrine in the capital, Bangkok."
+435,3144,1794993501.043,80.27,80.11,0.16,23,1,230.8,442.0,A new team of estate agents will be able to help in a bid to get the job done.
+436,5873,1794993501.145,101.372,101.212,0.16,32,1,230.8,442.0,"German Chancellor Angela Merkel has said the world must take its destiny into its own hands after Donald Trump said climate change is ""on the way out""."
+437,1884,1794993501.202,55.119,54.964,0.155,15,1,230.8,442.0,One Direction have confirmed they'll continue their tour of South Africa.
+438,452,1794993501.287,83.945,83.787,0.158,26,1,230.8,442.0,"A head teacher has called for schools to promote ""fundamental British values"" in a bid to prevent radicalisation."
+439,8614,1794993501.384,95.38,95.219,0.161,30,1,230.8,442.0,"Broadband services in the UK are to be rolled out in Wales, with the aim of a broadband service being used by BT."
+440,7399,1794993501.456,70.906,70.749,0.157,20,1,230.8,442.0,A rail line in Wales has been closed for several days due to a landslip.
+441,11090,1794993501.534,77.108,76.862,0.246,22,1,230.8,442.0,A former IRA member has been discharged from prison after being accused of sex offences.
+442,3304,1794993501.619,84.069,83.91,0.159,26,1,230.8,442.0,Wasps moved into the Six Nations' top four with a comfortable victory over Bath at the St James' Park.
+443,8144,1794993501.694,74.088,73.931,0.156,21,1,230.8,442.0,Toyota has agreed to develop a prototype flying car that could be used to light the Tokyo Olympics.
+444,6520,1794993501.775,80.433,80.276,0.157,23,1,230.8,442.0,Spanish police have arrested a group of Chinese immigrants accused of paying employers to work in the Spanish textile industry.
+445,3395,1794993501.878,102.39,102.23,0.16,30,1,230.8,442.0,"Peterborough United manager Steve McCann says he is ""devastated"" by the injury suffered by midfielder Chris Evans."
+446,10502,1794993502.01,130.577,130.413,0.164,39,1,230.8,442.0,World champion Joshua has been told he will fight Wladimir Klitschko in November after being told he will not fight for the WBA world heavyweight title.
+447,689,1794993502.06,48.512,48.359,0.153,14,1,230.8,442.0,A new film featuring zombies has been released in South Korea.
+448,3537,1794993502.151,89.964,89.804,0.159,28,1,230.8,442.0,Glasgow Warriors have signed Scotland prop Leone Nakawara from Munster for a fee believed to be about £4m.
+449,10214,1794993502.223,71.194,71.048,0.146,20,1,230.8,442.0,Portsmouth have signed former Sheffield Wednesday defender Drew Talbot on a two-year deal.
+450,1714,1794993502.3,75.132,74.972,0.16,23,1,230.8,442.0,French authorities have ordered a security alert in the country to stop printing cartoons featuring Islamist cartoons.
+451,3243,1794993502.369,68.085,67.927,0.157,19,1,230.8,442.0,West Ham Ladies have signed a new contract with the Women's Super League club.
+452,7510,1794993502.466,95.577,95.417,0.16,30,1,230.8,442.0,"A County Tyrone woman has told an inquest she was ""shocked"" by the police investigation into the murder of her mother."
+453,6193,1794993502.522,55.385,55.23,0.155,15,1,230.8,442.0,The funeral of soap opera star Paul Warren has taken place in Manchester.
+454,5925,1794993502.613,89.971,89.811,0.16,26,1,230.8,442.0,(Close): Shares in rail operator Govia Thameslink fell after the company reported a rise in profits.
+455,8952,1794993502.714,99.418,99.26,0.158,29,1,230.8,442.0,A woman in the US state of Oklahoma has been charged with drink-driving after failing a blood-alcohol test.
+456,2479,1794993502.83,114.912,114.691,0.221,34,1,230.8,442.0,"A 14-year-old girl has been jailed for five years for a ""serious"" attack on a woman in a park."
+457,1716,1794993502.879,48.718,48.564,0.154,13,1,230.8,442.0,The first Sherlock Holmes book has been published in the UK.
+458,9768,1794993502.97,89.626,89.463,0.163,26,1,230.8,442.0,England's Mark Fitzpatrick is one shot off the lead after the second round of the Dubai Masters in Thailand.
+459,7993,1794993503.054,83.48,83.322,0.158,24,1,230.8,442.0,A new system of non-formal and non-formal education has been introduced by the Welsh Education Council.
+460,2431,1794993503.18,124.652,124.49,0.162,37,1,230.8,442.0,India has said it will not be able to appeal against the death sentence given to a Pakistani spy who was detained in the neighbouring state of Islamabad.
+461,9239,1794993503.27,89.141,88.981,0.16,28,1,230.8,442.0,Leeds Rhinos boosted their hopes of a Super League play-off place by beating Salford at the SSE Arena.
+462,6650,1794993503.354,83.229,83.049,0.18,24,1,230.8,442.0,Hull City have signed former Bradford defender Curtis Naughton on a two-year deal.
+463,10458,1794993503.448,91.969,91.81,0.158,29,1,230.8,442.0,Friends of the Earth has launched a petition calling for the European Commission to clarify the impact of the trade deal between the EU and Canada.
+464,11139,1794993503.532,82.943,82.786,0.158,24,1,230.8,442.0,"People are more confident about making repayments on loans than those making applications on loans, a survey has suggested."
+465,6934,1794993503.611,77.779,77.622,0.157,24,1,230.8,442.0,"UK inflation rose by 0.5% in May, compared with the same month last year, according to official figures."
+466,8539,1794993503.692,80.027,79.879,0.148,25,1,230.8,442.0,"Wales will ""move on"" with the loss of midfielder Gaz Bale, says manager Paul Gunter."
+467,8116,1794993503.798,103.968,103.776,0.192,33,1,230.8,442.0,"The UN has said it will not allow a special court to investigate war crimes against Sri Lanka, despite the government's response to a report."
+468,5283,1794993503.892,93.218,93.048,0.17,27,1,230.8,442.0,Peterborough United have signed striker David Lloyd from non-league side Fylde for an undisclosed fee.
+469,8166,1794993504.005,111.834,111.671,0.162,33,1,230.8,442.0,"The organisers of the TT event in Londonderry have paid tribute to rider Franck Petricola, who died in a crash."
+470,8169,1794993504.143,136.89,136.726,0.165,41,1,230.8,442.0,"A woman who died after eating a sorbet containing a tin ring in her mouth was a ""serious allergic reaction"", an inquest has heard."
+471,10404,1794993504.227,83.198,83.049,0.15,24,1,230.8,442.0,A cyclist who was robbed of a bike in a supermarket has been given a new one.
+472,10978,1794993504.337,108.493,108.332,0.162,32,1,230.8,442.0,Egyptian judo Graeme Sasson has withdrawn from the Rio Olympics after a bout with Egyptian Dame El Shehaby.
+473,3309,1794993504.41,72.229,72.071,0.158,22,1,230.8,442.0,A woman has told a court she fears her son was involved in the murder of a cyclist.
+474,8893,1794993504.562,150.33,150.158,0.172,49,1,230.8,442.0,"""I'm going into jail for the evening,"" says Del Del, a barman who's been slashed in the slums of Dundee United's 1-0 win over Bon Accord."
+475,9990,1794993504.669,105.523,105.361,0.162,31,1,230.8,442.0,"A club which has been promoting the ""silly moustache"" of British beards is urging people to contact the club."
+476,159,1794993504.75,80.56,80.399,0.162,23,1,230.8,442.0,A new Valu-4-U ferry has been reopened after being reopened to the public.
+477,5574,1794993504.82,67.904,67.745,0.158,19,1,230.8,442.0,A lorry driver has died after a crash on the M6 in Birmingham.
+478,5214,1794993504.895,74.166,74.008,0.157,21,1,230.8,442.0,A man who raped a woman in Cardiff has lost an appeal against his sentence.
+479,5272,1794993504.989,93.07,92.91,0.16,27,1,230.8,442.0,A councillor has apologised after a sandcastle was crowned the winner of a competition.
+480,581,1794993505.042,52.054,51.904,0.15,14,1,230.8,442.0,A suicide prevention trust has been praised for improving patient safety.
+481,8603,1794993505.151,108.509,108.345,0.164,32,1,230.8,442.0,"A former police officer has been jailed for a ""significant custodial"" sentence for sex offences against a child."
+482,2430,1794993505.268,115.378,115.215,0.163,37,1,230.8,442.0,"Labour's Boris Johnson has defended the rise in tuition fees and interest rates, saying it would be ""indefensible"" for students to leave university."
+483,4208,1794993505.365,96.138,95.978,0.16,28,1,230.8,442.0,A woman who was inspired to become the first person to give the speaking clock time has won the BBC's Children in Need competition.
+484,9872,1794993505.471,104.409,104.249,0.161,33,1,230.8,442.0,The BBC's John O'Neill has been a bit sceptical about the impact of the Metropolitan Police's investigation into historical child abuse.
+485,2554,1794993505.571,98.169,98.008,0.161,31,1,230.8,442.0,"The UK Border Agency has been told to do more to ensure it removes more than 150,000 people who have been refused permission to leave the country."
+486,6209,1794993505.954,381.745,381.569,0.176,128,0,230.8,442.0,Mae dyn yn ymddangos yn ymddangos yn ymddangos yn ymddangos yn ymddangos yn ymddangos yn ymddangos yn ymddangos yn yr yn yr yn yr yr yn yr gynaddol i'r g
+487,9551,1794993506.032,77.337,77.178,0.159,22,1,230.8,442.0,"The poorest in Latin America will live in cities by 2050, according to a UN report."
+488,4823,1794993506.129,95.625,95.464,0.16,28,1,230.8,442.0,Real Madrid midfielder Jese Ayri has joined National League side PSG on a two-year deal.
+489,7707,1794993506.207,77.017,76.858,0.159,22,1,230.8,442.0,Kilmarnock have signed defender David Waters from Celtic for an undisclosed fee.
+490,1087,1794993506.309,101.158,100.999,0.159,32,1,230.8,442.0,A group of Vietnamese veterans who fought in Vietnam during the Vietnam War have captured the story of a soldier who was killed in a bomb attack.
+491,1386,1794993506.435,124.455,124.289,0.166,40,1,230.8,442.0,"The Indian government is a sceptical of the Dalit castes, but the sceptics are a bit concerned about the future of the castes."
+492,8462,1794993506.506,68.866,68.708,0.158,21,1,230.8,442.0,"Tata Steel is to cut a further 2,500 jobs in Newport, the company has announced."
+493,3687,1794993506.582,74.893,74.735,0.158,23,1,230.8,442.0,A student from Australia has been a student in Thailand who was unable to find peace in the country.
+494,665,1794993506.66,76.926,76.767,0.159,22,1,230.8,442.0,Legoland has been forced to close its car park after a number of visitors were left frustrated.
+495,4922,1794993506.756,95.649,95.483,0.166,28,1,230.8,442.0,A former keyboardist has been reunited with his bandmates at a home where he played for more than 40 years.
+496,250,1794993506.831,74.01,73.856,0.154,21,1,230.8,442.0,"A new class of drugs has been found to help fight prostate cancer, a study has found."
+497,7349,1794993506.934,101.7,101.544,0.156,30,1,230.8,442.0,Bristol Rovers have signed midfielder Chris Broom on a two-year deal after he was released by the National League club.
+498,5416,1794993507.033,97.958,97.795,0.163,31,1,230.8,442.0,"David Becks' speech to the former Spice Girls was influenced by his ""hyper-correcting"" speech, a study has found."
+499,2632,1794993507.158,123.475,123.312,0.163,37,1,230.8,442.0,"Britain's Tom Waites says he is ""disappointed"" to be able to play for two hours in a practice session after a shoulder injury."
+500,2438,1794993507.23,71.543,71.385,0.158,22,1,230.8,442.0,Cambridge United climbed to the top of the Championship with a 2-1 win over Morecambe.
+501,10749,1794993507.314,82.859,82.702,0.157,24,1,230.8,442.0,A 17-year-old boy has died after being hit by a lorry in the Met area.
+502,7548,1794993507.395,80.091,79.933,0.158,23,1,230.8,442.0,A man has been taken to hospital after being attacked by a man at a Borders Post Office.
+503,6083,1794993507.489,92.787,92.625,0.161,27,1,230.8,442.0,A £20m fund to help those who have lost their jobs in the oil and gas industry is to be launched in Aberdeen.
+504,8273,1794993507.551,61.092,60.937,0.155,17,1,230.8,442.0,"A car has been hit by a train in the French capital, Paris."
+505,6262,1794993507.66,108.141,107.988,0.154,32,1,230.8,442.0,"Police investigating the disappearance of toddler Ben Needham on the Greek island of Kos have said they are ""more desperate than ever"" to find answers."
+506,8680,1794993507.754,92.564,92.404,0.16,27,1,230.8,442.0,"The director of the US film and television company National Amusements, John Dauman, has been removed from his role."
+507,8231,1794993507.869,114.345,114.181,0.164,34,1,230.8,442.0,"Scunthorpe United manager Steve Swann says the club should be ""on their back"" after a 1-0 defeat by Shrewsbury Town."
+508,550,1794993507.979,108.576,108.417,0.159,32,1,230.8,442.0,A Texas sheriff has been charged with perjury after a woman was allegedly threatened with a stun gun by a police officer.
+509,1485,1794993508.095,114.976,114.814,0.162,37,1,230.8,442.0,"Former England and Wolves striker David Dwyer has been a student at the University of Texas, where he has spent the last 10 minutes playing for the club."
+510,11117,1794993508.176,79.875,79.717,0.158,23,1,230.8,442.0,Forest Green Rovers moved up to third in the Championship with a comfortable win over Grimsby Town.
+511,8486,1794993508.261,83.569,83.412,0.157,26,1,230.8,442.0,"The thorny, slender and slickest of all, is a new entertainment show."
+512,9832,1794993508.354,91.945,91.786,0.16,29,1,230.8,442.0,Lancashire's hopes of a fourth County Championship title were ended as they were beaten by 15 men by Lancashire.
+513,1251,1794993508.428,73.494,73.337,0.157,21,1,230.8,442.0,A man has been charged with murder after a man was stabbed to death in Essex.
+514,6985,1794993508.475,45.277,45.117,0.16,13,1,230.8,442.0,The government has published draft guidelines on abortion in Northern Ireland.
+515,3376,1794993508.556,79.691,79.534,0.157,23,1,230.8,442.0,A man has been arrested after a gun was found in a block of flats in County Down.
+516,4745,1794993508.64,83.072,82.913,0.159,24,1,230.8,442.0,"A company has been fined £1,000 after a number of properties were evacuated from a new development."
+517,8772,1794993508.727,86.246,86.064,0.182,25,1,230.8,442.0,The body of a mountaineer who went missing on a mountain in the Republic of Ireland has been found.
+518,9807,1794993508.795,67.411,67.244,0.167,19,1,230.8,442.0,A new £4m hippodrome is to be opened in the south of England.
+519,6845,1794993508.879,82.985,82.826,0.159,24,1,230.8,442.0,"A new dockyard is set to close in Bristol after the owner said it was ""not a good idea""."
+520,7900,1794993509.001,120.6,120.454,0.146,36,1,230.8,442.0,A man who wounded patients with a hammer and a hammer in a hammer has been given a 12-month jail term.
+521,6366,1794993509.089,86.309,86.149,0.16,27,1,230.8,442.0,"The Bank of England has voted to keep interest rates at current levels, despite a decline in the value of sterling."
+522,9952,1794993509.147,57.789,57.604,0.185,16,1,230.8,442.0,A campaign to tackle human trafficking and slavery in Wales has been launched.
+523,9607,1794993509.214,65.581,65.423,0.158,20,1,230.8,442.0,"The Olympic torch will be carried across the UK in three days, the city council has announced."
+524,3826,1794993509.273,57.908,57.755,0.153,16,1,230.8,442.0,Scientists have identified the link between chronic pain and depression in the body.
+525,335,1794993509.358,83.168,83.011,0.157,24,1,230.8,442.0,"A school has been accused of ""stragging"" the financial strain of attending a prom in Jersey."
+526,10764,1794993509.451,92.16,92.001,0.159,29,1,230.8,442.0,"If you're a fan of chicken, you're probably going to be a bit surprised to find it in your freezer."
+527,3,1794993509.529,76.752,76.595,0.157,22,1,230.8,442.0,West Brom have appointed former Royals youth academy director David McLaughlin as their new director.
+528,2981,1794993509.605,74.61,74.452,0.158,23,1,230.8,442.0,"The John Lewis ad, which was launched in November, has been a hit on the internet."
+529,4955,1794993509.714,108.122,107.956,0.166,32,1,230.8,442.0,"A former Conservative peer has donated a £50,000 donation to the Conservatives to help save the country from a ""crying to UKIP""."
+530,8304,1794993509.835,120.64,120.44,0.199,36,1,230.8,442.0,"(Close): London's leading shares were up on Tuesday, helped by a strong performance from Ryanair and a strong performance from the US and Japan."
+531,9343,1794993509.963,126.745,126.581,0.164,38,1,230.8,442.0,"A US student who was unable to take over Google.com has been given a ""bug bounty"" by Google after he discovered a for sale sign on the website."
+532,4169,1794993510.072,107.969,107.816,0.153,32,1,230.8,442.0,St Peter's of Wexford were knocked out of the MacRory Cup final by St Mary's of St Johnstone.
+533,5450,1794993510.159,86.166,86.008,0.158,25,1,230.8,442.0,A man accused of punching his bride at a hotel has admitted pushing him and grappling with him.
+534,1075,1794993510.231,70.58,70.423,0.157,20,1,230.8,442.0,The director of Ghostbusters has said he is hoping to make a fourth film.
+535,8085,1794993510.306,73.621,73.464,0.157,21,1,230.8,442.0,The Australian government has announced plans to build a memorial to the victims of the Sydney siege.
+536,4292,1794993510.387,80.186,80.028,0.157,23,1,230.8,442.0,Greece have sacked coach Amir Karagounis after a month in charge of the club.
+537,4961,1794993510.46,71.255,71.097,0.158,22,1,230.8,442.0,Donald Trump has defended his rival Hillary Clinton after she questioned her husband's fitness to serve.
+538,6685,1794993510.542,80.671,80.512,0.159,25,1,230.8,442.0,Former Fifa secretary of state Sergio Garcia has been a prominent figure in the world's football industry.
+539,6294,1794993510.604,60.972,60.816,0.156,17,1,230.8,442.0,Police in Dublin are investigating the death of a man in a hotel.
+540,6286,1794993510.685,80.257,80.099,0.158,25,1,230.8,442.0,A road has been closed in the Highlands after a landslip caused a major road to be closed.
+541,2683,1794993510.792,105.358,105.199,0.159,31,1,230.8,442.0,A college in Scotland is holding a special event to mark the centenary of the work of Gaelic painter Jon Schueler.
+542,10501,1794993510.876,83.048,82.891,0.157,24,1,230.8,442.0,"Welsh teenager Yvette Williams says she has ""no confidence"" to win gold at the European Championships."
+543,2086,1794993510.966,89.165,89.005,0.16,26,1,230.8,442.0,Germany's central bank has said it will push the country's state pension system to its highest level by 2050.
+544,3914,1794993511.069,101.857,101.697,0.16,30,1,230.8,442.0,Ireland have completed their first competitive tournament in 18 months with a 1-0 win over Wales in the EuroHockey Championships in Dublin.
+545,4703,1794993511.153,83.231,83.073,0.159,24,1,230.8,442.0,A man accused of killing his baby son has told a court he had fallen over while carrying the baby.
+546,5472,1794993511.222,67.701,67.542,0.158,19,1,230.8,442.0,"A painting of an 18th Century African has been sold at auction for £450,000."
+547,909,1794993511.563,339.762,339.585,0.177,114,1,230.8,442.0,Donald Trump's campaign to oust the US president has been a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit a bit
+548,588,1794993511.636,71.664,71.508,0.156,22,1,230.8,442.0,A botanist who went missing in the Scottish Borders has been reunited with his family.
+549,7886,1794993511.723,86.376,86.217,0.159,25,1,230.8,442.0,Salford Red Devils have signed Newcastle United winger Tyrone McCarthy on a two-year deal.
+550,6846,1794993511.805,80.47,80.311,0.158,25,1,230.8,442.0,"Care homes in Wales are being rated ""unacceptable"" by the Welsh government, a report has found."
+551,2308,1794993511.902,95.094,94.878,0.216,30,1,230.8,442.0,Southport's James Fleetwood and Paul Harman are two shots off the lead after the second round of the US Open in New York.
+552,8058,1794993511.97,67.492,67.334,0.158,19,1,230.8,442.0,Wales' Champions League campaign has been re-launched by the Football Association.
+553,9862,1794993512.077,105.581,105.42,0.161,31,1,230.8,442.0,"At least 129 people have been killed in a knife attack at a train station in the Chinese city of Kunming, officials say."
+554,1337,1794993512.183,105.449,105.29,0.159,31,1,230.8,442.0,"League Two side Grimsby Town have signed striker David Cook on a two-year deal, with the option of a further year."
+555,11035,1794993512.273,89.34,89.183,0.157,26,1,230.8,442.0,"A shop owner has said she is ""not happy"" with the ""monsters"" who have been linked to Syria."
+556,2480,1794993512.358,83.827,83.667,0.16,26,1,230.8,442.0,Mercedes have said they could be fined for failing to follow the rules of their drivers' conduct in the US Grand Prix.
+557,5779,1794993512.423,64.3,64.145,0.155,18,1,230.8,442.0,A woman who died after drinking a coffee in Indonesia has been named by police.
+558,6736,1794993512.488,62.714,62.554,0.16,19,1,230.8,442.0,The US Embassy in Havana has officially opened its doors to the Cubans.
+559,576,1794993512.578,89.054,88.892,0.162,28,1,230.8,442.0,"Teachers in Northern Ireland are being urged to ""do more of their time"" to address the issue of public sector pensions."
+560,10023,1794993512.65,70.491,70.334,0.156,20,1,230.8,442.0,A policeman has been charged with the murder of a teenager in Texas 40 years ago.
+561,7639,1794993512.708,57.859,57.704,0.155,16,1,230.8,442.0,A woman from Londonderry has died at the age of 83.
+562,6335,1794993512.814,105.08,104.918,0.162,31,1,230.8,442.0,The OLPC organisation has received a $1m (£7m) grant from the NI Computer and Computer Computing Corporation (OLPC).
+563,7518,1794993512.901,85.955,85.768,0.187,27,1,230.8,442.0,"Nigeria's government has begun a military operation to control the entire territory of the country, the Ministry of Defence has said."
+564,770,1794993512.957,55.045,54.889,0.155,15,1,230.8,442.0,"A car has been seized by police in Kingston, County Down."
+565,7715,1794993513.026,67.549,67.391,0.158,19,1,230.8,442.0,Cambridge have signed Wales international defender Chris Roberts on a two-year deal.
+566,331,1794993513.122,95.803,95.641,0.161,28,1,230.8,442.0,Ospreys have signed Scarlets and London Irish winger Rob McCusker on a two-year deal.
+567,531,1794993513.219,95.126,94.966,0.159,30,1,230.8,442.0,Hamilton manager Paul Wright says he will wait to see if the club's players let themselves down after the 1-0 win over Hamilton.
+568,9802,1794993513.324,103.934,103.776,0.158,33,1,230.8,442.0,"A man accused of murdering his landlord has told a court he was ""shocked"" by the way he was claiming benefits."
+569,10115,1794993513.43,105.158,104.995,0.164,31,1,230.8,442.0,Phil Taylor will face Peter Wright in the last 16 of the Premier League after a 2-0 win over Peter Wright in the semi-finals.
+570,2174,1794993513.517,86.401,86.243,0.158,25,1,230.8,442.0,A man has died after being found with stab wounds near a mosaic in London's Hyde Park.
+571,10321,1794993513.601,83.249,83.092,0.157,24,1,230.8,442.0,A campaign to stop a £4m park opening hours has been criticised by a council.
+572,5306,1794993513.686,83.436,83.28,0.156,24,1,230.8,442.0,A World War One aerodrome used by the Royal Air Force has been given a Grade II listed status.
+573,1725,1794993513.758,70.963,70.721,0.242,20,1,230.8,442.0,"It's a big day for boxing, but what do you think about it?"
+574,8997,1794993513.823,64.525,64.369,0.156,18,1,230.8,442.0,The Green Party has won two seats in the Shetland South council elections.
+575,10633,1794993513.925,100.35,100.189,0.161,32,1,230.8,442.0,"The UK's defence secretary has said he will not oppose any ""bureaucratic"" duplication of the EU's military headquarters."
+576,5679,1794993514.009,83.258,83.096,0.161,24,1,230.8,442.0,The Church of England has consecrated a woman bishop in the wake of the Tunisia beach attack.
+577,3194,1794993514.084,73.764,73.598,0.166,21,1,230.8,442.0,Norwich City manager Paul Money has signed a new two-year contract with the League Two club.
+578,6281,1794993514.177,92.639,92.441,0.198,27,1,230.8,442.0,Kent's hopes of a Division Two title were ended as they were beaten by Northants on day two at Kent.
+579,8033,1794993514.277,97.773,97.612,0.162,31,1,230.8,442.0,The pilot of a plane hijacked by Palestinian militants in 1986 has reacted angrily to the events of the 1986 attack.
+580,1818,1794993514.405,127.392,127.226,0.166,38,1,230.8,442.0,"Liverpool manager Brendan Rodgers says Raheem Sterling's future is ""not a bad one"" after he was told he would not sell his club."
+581,985,1794993514.502,95.194,95.034,0.159,30,1,230.8,442.0,"US Secretary of State Tillerson has said he was ""stunned"" when he was invited to meet Donald Trump."
+582,7654,1794993514.605,101.316,101.157,0.159,32,1,230.8,442.0,The US has filed a lawsuit against Malaysia's government over a fund it allegedly smuggled into the country's finances.
+583,10065,1794993514.696,89.572,89.414,0.158,26,1,230.8,442.0,"British number one Serena Williams says she is ""not for equality"" after being asked about equal pay by the media."
+584,10359,1794993514.763,65.509,65.352,0.158,20,1,230.8,442.0,The image of Jesus the Homeless is a strange sight in the Irish city of Dublin.
+585,5535,1794993514.841,76.801,76.643,0.158,22,1,230.8,442.0,"The Beatles have signed a contract worth more than £500,000 to their manager, Epstein has revealed."
+586,10657,1794993514.906,64.069,63.912,0.157,18,1,230.8,442.0,A number of athletes have been using hot cups to help them recover from burns.
+587,11182,1794993515.008,101.179,101.014,0.165,32,1,230.8,442.0,"Hillary Clinton's campaign for the US presidency is a tense one, with Bernie Sanders and Bernie Sanders battling to win the presidential election."
+588,10191,1794993515.115,105.444,105.282,0.162,31,1,230.8,442.0,"Blink 182 guitarist Christ DeLonge has resigned after a series of reports of ""dysfunctional"" press releases."
+589,4855,1794993515.215,99.079,98.921,0.158,29,1,230.8,442.0,Aberdeen winger Chris Hayes has been suspended for two matches after a complaint against the club's manager at the weekend.
+590,2082,1794993515.315,98.647,98.493,0.154,29,1,230.8,442.0,"A woman who lost her hand after a night out has said she is ""shocked"" by the way it is fitted."
+591,6351,1794993515.393,76.983,76.796,0.187,22,1,230.8,442.0,"A new dog control order could be introduced in Wrexham, the RSPCA has said."
+592,4813,1794993515.493,98.83,98.669,0.16,29,1,230.8,442.0,Police in India's southern Uttar Pradesh state have arrested five men in connection with the gang rape of a Swiss tourist.
+593,1991,1794993515.593,98.872,98.685,0.187,29,1,230.8,442.0,"A flood defence which collapsed in the River Thames could be fined £50,000 if it is not repaired, an MP has said."
+594,3098,1794993515.722,127.789,127.628,0.161,38,1,230.8,442.0,A new book about a boy who has been hailed as the best-selling book of the year has been shortlisted for the Children's Book of the Year award.
+595,625,1794993515.803,80.109,79.951,0.157,23,1,230.8,442.0,Aston Villa have appointed former Arsenal boss Tom Fox as their new manager on a two-year deal.
+596,6422,1794993515.869,64.493,64.338,0.155,18,1,230.8,442.0,Thousands of people have attended an Anzac Day service in Londonderry.
+597,7283,1794993515.997,127.061,126.9,0.16,38,1,230.8,442.0,England captain Alastair Cook hit a century off a rain-affected day to beat Worcestershire by a wicket in the first Test at Edgbaston.
+598,6087,1794993516.267,269.613,269.438,0.175,83,1,230.8,442.0,Mae ddiffoddwyr aros yn ôl adeilad er mwyn yn y fflamau yn y llanw i ddweud o rhwystro diffoddwyr rhag mynd ato.
+599,7462,1794993516.349,80.063,79.903,0.16,25,1,230.8,442.0,Boris Johnson has accepted an invitation from Russian foreign minister Sergey Lavrov to visit Moscow in the coming weeks.
+600,5841,1794993516.442,91.902,91.742,0.16,29,1,230.8,442.0,The Alliance has said it will not be able to vote on the election of the UK government unless the party wins the assembly election.
+601,10354,1794993516.5,57.667,57.512,0.155,16,1,230.8,442.0,A body has been found in a river in the Republic of Ireland.
+602,1234,1794993516.615,114.231,114.068,0.163,34,1,230.8,442.0,League Two side Chesterfield have signed midfielder Ryan Keane on a two-year deal after he was released by League One side Fulham.
+603,731,1794993516.697,80.404,80.246,0.158,25,1,230.8,442.0,The US Senate has voted to resign after a series of controversies over the presidential election.
+604,655,1794993516.816,117.72,117.555,0.165,35,1,230.8,442.0,Great Britain's Laura Enniskillen won the men's quadruple sculls at the World Rowing Championships in Poland.
+605,7965,1794993516.884,67.579,67.422,0.157,19,1,230.8,442.0,Manchester City have rejected a bid from West Brom for defender Jonny Evans.
+606,4184,1794993516.981,94.999,94.837,0.162,30,1,230.8,442.0,"The UN has said that Venezuela's security forces have used ""terrorist"" tactics to stop protesters being held in Chacao."
+607,436,1794993517.066,83.531,83.372,0.159,26,1,230.8,442.0,Thousands of people have taken part in a march in London to mark the 50th anniversary of the Orlando shootings.
+608,8520,1794993517.146,79.574,79.413,0.161,23,1,230.8,442.0,A motorcyclist has died after a crash at a MotoGP event in the Isle of Man.
+609,10920,1794993517.239,92.288,92.123,0.165,27,1,230.8,442.0,The UK's competition watchdog has said it will consider a bid to buy Heineken pubs in the UK.
+610,9326,1794993517.333,92.452,92.293,0.159,27,1,230.8,442.0,A butcher's shop in Powys has been targeted for stealing a total of 25 Christmas spreads.
+611,9368,1794993517.441,107.808,107.642,0.166,32,1,230.8,442.0,Great Britain's men have been beaten 1-0 by Slovakia in their final pool game at the World Para-athletics Championships in Japan.
+612,3538,1794993517.528,86.057,85.9,0.157,25,1,230.8,442.0,New Zealand's former captain Aljaz Patel has signed a new four-day contract with the county.
+613,3762,1794993517.61,80.261,80.099,0.161,25,1,230.8,442.0,"Mining giant Anglo American is to cut a further 5,000 jobs as part of a restructuring of its operations."
+614,1531,1794993517.729,118.002,117.837,0.166,38,1,230.8,442.0,"A GP has told a court she was ""disappointed"" a 12-year-old boy died from a genital swollen ovation."
+615,10279,1794993517.819,88.496,88.346,0.15,28,1,230.8,442.0,Nicky Ajose scored a late penalty as Gillingham beat Charlton to move up to second in the National League.
+616,8580,1794993517.908,88.979,88.821,0.158,26,1,230.8,442.0,Chester have signed midfielder Ryan Lloyd on a two-year deal following his release by National League rivals Chester.
+617,6883,1794993518.019,108.92,108.754,0.166,35,1,230.8,442.0,"French police have searched the headquarters of the UMP party to investigate allegations of a ""terrible spiral"" in the election of President Nicolas Sarkozy."
+618,8308,1794993518.105,85.875,85.717,0.158,25,1,230.8,442.0,"An Australian writer has been rebuked after she sent an email to her publisher, saying it was ""real""."
+619,5002,1794993518.193,85.895,85.736,0.159,27,1,230.8,442.0,"French President Emmanuel Macron has offered to join forces with his conservative opponent Marine Le Pen to prevent the ""failing of France""."
+620,1858,1794993518.283,89.511,89.352,0.159,26,1,230.8,442.0,Alloa Athletic manager Paul Goodwin says he is not retiring from the club because of a lack of consistency.
+621,2386,1794993518.38,94.851,94.689,0.162,30,1,230.8,442.0,"The effects of pesticides on honey bees are more likely to be a factor in their decline, a study has found."
+622,6979,1794993518.462,80.363,80.206,0.157,25,1,230.8,442.0,Scientists have discovered the asteroid that slosh the Earth's surface in a small bowl.
+623,9273,1794993518.542,79.908,79.75,0.157,23,1,230.8,442.0,A man has died after a crash involving a van and a van in the Highlands.
+624,6914,1794993518.621,77.323,77.159,0.164,24,1,230.8,442.0,A man who murdered his wife in a stabbing frenzy has been jailed for four years.
+625,1376,1794993518.709,86.392,86.234,0.158,25,1,230.8,442.0,Forfar Athletic moved up to third in the Scottish Premiership with a 2-0 win over Berwick Rangers.
+626,6809,1794993518.784,74.559,74.388,0.171,21,1,230.8,442.0,Egyptian police have arrested a man in Cairo after a protest broke out in the capital Cairo.
+627,1030,1794993518.889,103.265,103.097,0.168,33,1,230.8,442.0,"Lord Heseltine has said he is ""surprised"" Boris Johnson is not going to join the Conservatives in the referendum on the EU."
+628,1625,1794993518.991,100.531,100.367,0.165,32,1,230.8,442.0,"Brazil's President Michel Temer has called for a ""restore peace"" after the suspension of President Dilma Rousseff."
+629,6802,1794993519.085,92.443,92.28,0.163,27,1,230.8,442.0,"A Rangers supporter who embezzled more than £5,000 from her employer has been jailed for three years."
+630,2558,1794993519.179,91.844,91.682,0.163,29,1,230.8,442.0,"The European Union (EIU) has rated Donald Trump as ""extremely hostile"" to free trade, a report says."
+631,503,1794993519.288,108.384,108.223,0.161,32,1,230.8,442.0,ScotRail has reached an in-principle agreement with the RMT union to end a dispute over the use of new trains.
+632,7319,1794993519.39,101.558,101.394,0.164,30,1,230.8,442.0,A mother has appeared in court charged with the manslaughter of a man who died after being pulled from a burning car.
+633,7062,1794993519.472,79.977,79.819,0.158,25,1,230.8,442.0,Coral betting shop has been told to give customers a free lunch and drinks if they were too hot for them.
+634,11246,1794993519.547,74.269,74.112,0.157,21,1,230.8,442.0,A British soldier killed in a bomb attack in Afghanistan has been named by the Ministry of Defence.
+635,6832,1794993519.638,89.209,89.016,0.193,26,1,230.8,442.0,"A new festival to celebrate the ""incredible success"" of the blues in London is to be held in Durham."
+636,493,1794993519.708,68.806,68.649,0.157,21,1,230.8,442.0,A man who has been drawing for more than 30 years has been a fan of social media.
+637,8136,1794993519.777,67.843,67.687,0.156,19,1,230.8,442.0,Former Welsh Secretary David Smith has said he will not vote in the 2020 general election.
+638,5316,1794993519.858,80.005,79.847,0.158,23,1,230.8,442.0,Hull City have signed Uruguay international Abel Hernandez from Palermo for a club record fee.
+639,4138,1794993519.94,80.084,79.927,0.158,25,1,230.8,442.0,The UK government has proposed a new system to protect banks from a collapse in the event of another financial crisis.
+640,1286,1794993520.047,106.042,105.881,0.161,34,1,230.8,442.0,"The new taoiseach (Irish prime minister) is to be announced as a new leader, the RTÉ has announced."
+641,5775,1794993520.114,65.717,65.556,0.161,20,1,230.8,442.0,A senator from Australia has announced he will leave his job at the end of the year.
+642,1152,1794993520.204,89.202,89.042,0.16,26,1,230.8,442.0,Austria have recalled defender Mauricio Azerbaijan's defender for the rest of the season.
+643,1988,1794993520.301,95.767,95.608,0.159,28,1,230.8,442.0,A former Myanmar minister has been sacked after he was caught on camera claiming he had a fake university degree.
+644,5886,1794993520.36,57.505,57.349,0.156,17,1,230.8,442.0,A Greek girl has been found dead in a cave in the Pacific Ocean.
+645,481,1794993520.454,92.489,92.33,0.159,29,1,230.8,442.0,Hull FC fought back from a goal down to beat Catalans Dragons in the first round of the FA Cup.
+646,5659,1794993520.523,67.591,67.436,0.156,19,1,230.8,442.0,A hospital in London is to serve a special Christmas dinner for patients on Christmas Day.
+647,5699,1794993520.613,88.81,88.651,0.159,28,1,230.8,442.0,Former Swansea City and Leeds United striker Darren Curtis has been sacked for his role as manager.
+648,2914,1794993520.721,107.05,106.888,0.162,34,1,230.8,442.0,"Hungary is one of the most important countries in Europe, with its smallest population of a population of more than a million people living in neighbouring countries."
+649,163,1794993520.809,86.223,86.062,0.161,25,1,230.8,442.0,A civilian aircraft has been intercepted at Prestwick Airport after it was escorted to the airport.
+650,3776,1794993520.87,59.735,59.58,0.155,18,1,230.8,442.0,Andy Murray has returned to coaching after a successful career with the British Open champion.
+651,5993,1794993520.948,76.98,76.822,0.157,22,1,230.8,442.0,A man who robbed a post office in Glasgow has been jailed for four years.
+652,1155,1794993521.06,110.955,110.793,0.161,33,1,230.8,442.0,A sculpture of a swoop that was commissioned by the Yorkshire Regiment has risen by more than a third in the past year.
+653,9774,1794993521.165,103.864,103.704,0.16,33,1,230.8,442.0,Ben Murdoch-Masila scored a hat-trick as League One side Castleford beat Salford at the SSE Arena.
+654,2347,1794993521.293,126.7,126.538,0.163,38,1,230.8,442.0,WBC world featherweight champion Nicola Adams says she will not be able to stop a fight in the UK unless the sport is shortened to 10oz.
+655,3407,1794993521.39,96.085,95.924,0.161,28,1,230.8,442.0,The Royal Shakespeare Company's performance of Matilda has been cancelled after a delay in the opening night of the show.
+656,52,1794993521.474,83.288,83.132,0.157,24,1,230.8,442.0,"The Obamas have paid for a party in New York, the party's spokesman has said."
+657,3355,1794993521.565,89.235,89.076,0.16,26,1,230.8,442.0,The family of two soldiers who died during World War One have received a memorial flag at a ceremony in Hull.
+658,10797,1794993521.63,63.992,63.835,0.157,18,1,230.8,442.0,Arsenal Ladies have signed defender Alex Duffy on a two-year deal.
+659,11038,1794993521.74,109.083,108.919,0.164,35,1,230.8,442.0,"The mother of a schoolgirl who was convicted of abducting her has said she has had to stop the ""disaster"" of her children."
+660,2018,1794993521.818,76.782,76.624,0.158,22,1,230.8,442.0,The first incubators for the Welsh Air Ambulance have been bought by NHS Cymru.
+661,117,1794993521.918,98.893,98.73,0.163,29,1,230.8,442.0,The FA has invited the family of former West Brom striker Jeff Astle to discuss the dangers of concussion.
+662,4804,1794993521.973,54.824,54.67,0.154,15,1,230.8,442.0,A new festival has been held in the western Indian state of China.
+663,6047,1794993522.082,108.056,107.894,0.162,32,1,230.8,442.0,"Scotland manager Mark McGhee says he would be ""amazed"" if Gordon Strachan does not stay in charge of Motherwell."
+664,11296,1794993522.153,68.636,68.468,0.168,21,1,230.8,442.0,Newcastle United moved out of the relegation zone with a comfortable win over West Ham.
+665,403,1794993522.26,106.164,106.011,0.154,34,1,230.8,442.0,"Israeli Prime Minister Benjamin Netanyahu has resigned after a senior military officer said he was ""hating the foreigner"" in the wake of the Holocaust."
+666,9909,1794993522.36,98.93,98.766,0.164,29,1,230.8,442.0,The Metropolitan Police commissioner has apologised to the family of a man who died after being found dead in a Glasgow street.
+667,3815,1794993522.465,103.321,103.163,0.159,33,1,230.8,442.0,England's Mark Lowry is one shot off the lead after a three-under-par 66 to move into the lead at the US Open.
+668,2324,1794993522.562,95.392,95.226,0.166,30,1,230.8,442.0,"When I first met a young Canadian man, I was a little bit nervous about the fact that he was a businessman."
+669,3063,1794993522.648,86.067,85.914,0.153,25,1,230.8,442.0,Yeovil Town Ladies have signed striker Heatherson from Championship side Wolves on a two-year deal.
+670,7439,1794993522.692,42.518,42.36,0.158,12,1,230.8,442.0,Manchester United's future is a huge one.
+671,1841,1794993522.804,111.059,110.909,0.15,33,1,230.8,442.0,"(Close): London's leading shares closed lower on Wednesday, with the FTSE 100 still recovering from a fall in the financial sector."
+672,7810,1794993522.907,101.644,101.485,0.159,30,1,230.8,442.0,"Bournemouth manager Eddie Howe says his side's 2-0 defeat by Hull City is ""difficult to take""."
+673,5643,1794993522.99,82.827,82.669,0.158,24,1,230.8,442.0,World Snooker has voted to scrap the Shoot Out tournament after a 0-0 draw in the final.
+674,4230,1794993523.068,76.685,76.527,0.158,22,1,230.8,442.0,A motorist has been caught doing 51mph in a 30mph zone on the M62 motorway.
+675,2132,1794993523.153,83.31,83.15,0.16,26,1,230.8,442.0,Russia has said it has sent missiles to the Baltic Sea to counter a planned US missile defence shield in the region.
+676,457,1794993523.22,65.634,65.475,0.159,20,1,230.8,442.0,Two UK explorers have discovered a new oil and gas pipeline in the North Sea.
+677,3409,1794993523.292,71.221,71.064,0.157,22,1,230.8,442.0,"The Conservatives have retained their Welsh seat in Cardiff North, the party's new MP has said."
+678,5934,1794993523.377,82.895,82.711,0.184,26,1,230.8,442.0,US President-elect Donald Trump has congratulated Taiwan's first female leader on becoming Taiwan's president.
+679,5488,1794993523.47,92.627,92.464,0.163,27,1,230.8,442.0,A journalist who denies murdering a Sun newspaper journalist has told a court DNA matching was found on a jacket.
+680,7755,1794993523.523,51.808,51.652,0.156,14,1,230.8,442.0,Northern Ireland cyclist Jeremy Irvine has announced his retirement from cycling.
+681,4794,1794993523.616,91.637,91.479,0.159,29,1,230.8,442.0,England's batsmen were forced to pull out of the third Test against Pakistan after a 2-0 defeat in the second Test.
+682,9063,1794993523.733,115.566,115.379,0.187,37,1,230.8,442.0,"Labour could win the Conservatives by itself if it is not able to win a seat in the general election, Welsh MP Kirsty Stevens has said."
+683,10418,1794993523.819,83.727,83.523,0.203,26,1,230.8,442.0,"The number of teachers in Scotland has risen by a third in the last four years, according to the Scottish government."
+684,5357,1794993523.9,80.444,80.283,0.161,23,1,230.8,442.0,Kilmarnock have signed defender Jamie Hamill from Hearts for an undisclosed fee.
+685,3015,1794993523.972,71.134,70.975,0.16,20,1,230.8,442.0,"A letter written by British writer John Lewis has sold for £10,000 at auction in the US."
+686,9716,1794993524.11,136.972,136.805,0.167,41,1,230.8,442.0,"The Home Office has apologised after a BBC radio presenter said it was ""regrettable"" to have a note written to Muslim women in the UK to learn English."
+687,1323,1794993524.204,92.817,92.662,0.155,27,1,230.8,442.0,Dundrod Martin will miss the UGP in the UK this summer after a crash at the Isle of Man TT.
+688,1680,1794993524.301,94.867,94.705,0.162,30,1,230.8,442.0,Passengers at a major Eurotunnel terminal in the UK are being scanned for passports to help improve security.
+689,8736,1794993524.36,57.996,57.839,0.157,16,1,230.8,442.0,Former Home Secretary David Waddington has died at the age of 87.
+690,9516,1794993524.463,101.537,101.316,0.22,32,1,230.8,442.0,Three schools in Birmingham have been told they may lose funding unless parents are told they are unable to stop them being targeted by Islamic extremists.
+691,5042,1794993524.551,86.673,86.509,0.164,27,1,230.8,442.0,"Wales coach Warren Gatland says his side are ""gutted"" by their defeat by New Zealand in the first Test."
+692,2562,1794993524.636,83.656,83.378,0.278,24,1,230.8,442.0,Australian airline chief executive Alan Joyce has said he will campaign for a vote on same-sex marriage.
+693,6170,1794993524.704,67.413,67.246,0.167,19,1,230.8,442.0,Former Celtic manager Mark Warburton has been named as the new manager of the club.
+694,2051,1794993524.809,103.026,102.857,0.17,33,1,230.8,442.0,Cole Stockton scored a late winner as Tranmere thrashed Dover to move into the National League play-off places.
+695,3650,1794993524.887,76.986,76.829,0.156,22,1,230.8,442.0,"Hospitals in England are being unable to release patients in four hours, according to a report."
+696,5175,1794993524.977,89.439,89.28,0.159,26,1,230.8,442.0,"The Northern Ireland Secretary of State, Jane Villiers, has announced that she will grant extra borrowing powers to the civil service."
+697,8328,1794993525.078,98.855,98.694,0.16,29,1,230.8,442.0,"A couple who died from cancer have been reunited with their children after a ""horrifying"" story about their death."
+698,3978,1794993525.174,95.648,95.487,0.161,28,1,230.8,442.0,A UKIP councillor has been expelled from the party after being suspended for a row over a journalist's question.
+699,3877,1794993525.245,70.367,70.211,0.156,20,1,230.8,442.0,The UK's most pristine beaches have been rated as the best in the world.
+700,3013,1794993525.307,60.342,60.184,0.158,18,1,230.8,442.0,England manager Gareth Southgate has been appointed as the new national team manager.
+701,6877,1794993525.38,71.655,71.497,0.158,22,1,230.8,442.0,Tributes have been paid to a man who died in the Tunisia terror attack.
+702,10865,1794993525.459,77.889,77.739,0.15,24,1,230.8,442.0,"England will play Scotland in the first round of the Women's World Twenty20 in India, India and Ireland."
+703,757,1794993525.534,73.948,73.791,0.157,21,1,230.8,442.0,"A council has said it is ""deeply concerned"" about the number of emergency calls in Suffolk."
+704,2166,1794993525.613,77.48,77.332,0.148,24,1,230.8,442.0,Formula 1 teams are to test the aeroscreen at the Russian Grand Prix for the first time in a week.
+705,9850,1794993525.703,89.303,89.146,0.157,26,1,230.8,442.0,A five-year-old boy has been reunited with his mother after he called Celtic to explain his absence.
+706,336,1794993525.803,97.708,97.519,0.189,31,1,230.8,442.0,Mohamed Al-Hussein is a young man who has been battling to cross the border with Syria since the Syrian government took over.
+707,1276,1794993525.887,82.973,82.803,0.17,24,1,230.8,442.0,"Former world heavyweight champion Mark Harrison says Anthony Joshua has the ""hard ingredient"" to keep him off the fight."
+708,1199,1794993526.002,114.43,114.271,0.159,34,1,230.8,442.0,"Mexican authorities have arrested four people over the alleged escape of drug lord Juan Manuel Guzman from a prison in Altiplano, Mexico."
+709,2163,1794993526.105,102.215,102.055,0.159,30,1,230.8,442.0,(Close): The FTSE 100 closed lower after the UK's largest supermarket was hit by a fall in its shares.
+710,6885,1794993526.205,98.717,98.556,0.161,29,1,230.8,442.0,"A fire on a ferry has left at least 65 people dead and more than 50 injured, the ferry operator Wightlink has said."
+711,4905,1794993526.28,73.606,73.447,0.159,21,1,230.8,442.0,Wales women thrashed Kazakhstan 3-0 to move into the Euro 2016 qualifying group stage.
+712,9023,1794993526.402,120.959,120.794,0.166,36,1,230.8,442.0,"Swansea City's poor form is a factor in their chances of relegation from the Premier League, says striker Paul Sigurdsson."
+713,6828,1794993526.474,70.735,70.577,0.158,20,1,230.8,442.0,A plan to build a new home in the North West has been approved by the council.
+714,2331,1794993526.58,105.16,105.008,0.152,31,1,230.8,442.0,Featherstone Rovers have suspended two players for taking banned substances after they were found to have a better chance of getting away with them.
+715,9684,1794993526.668,86.343,86.186,0.157,25,1,230.8,442.0,The Scottish government has been told to update its plans to provide a named person for every child under the Scottish government.
+716,6917,1794993526.758,89.158,89.001,0.158,26,1,230.8,442.0,A number of cars have been rescued from the streets of Warwickshire after heavy rain caused delays to trains and trains.
+717,4882,1794993526.838,78.061,77.904,0.157,24,1,230.8,442.0,A US pharmaceuticals company has announced it will buy a 80% stake in a leading HIV treatment company.
+718,10436,1794993526.937,98.649,98.493,0.156,29,1,230.8,442.0,A protest by teachers in the Mexican state of Oaxaca has been triggered by roadblocks that have blocked food deliveries.
+719,5809,1794993527.027,89.164,89.008,0.157,26,1,230.8,442.0,A woman who bit a postman on the leg of her dog has been given a three-month community order.
+720,1385,1794993527.098,70.45,70.292,0.158,20,1,230.8,442.0,Former Wales and New Zealand international John Faull has died at the age of 83.
+721,4064,1794993527.208,108.458,108.298,0.16,32,1,230.8,442.0,"News Corp, the Australian newspaper group, has reported a loss for the first time in three years, boosted by a rise in its profits."
+722,7287,1794993527.28,70.775,70.617,0.158,20,1,230.8,442.0,A large piece of debris has been found floating in the Brazilian city of Paraguay.
+723,10367,1794993527.403,121.607,121.443,0.165,39,1,230.8,442.0,"A Conservative MP has backed a controversial amendment to the UK's 1967 abortion law, saying it would prevent women confiding in the sex of foetus."
+724,6049,1794993527.513,108.518,108.358,0.16,32,1,230.8,442.0,Afghan singer and singer Ayada Sayeed has been threatened with death by the government after a concert in Kabul was held on Saturday.
+725,10437,1794993527.603,89.445,89.272,0.174,26,1,230.8,442.0,"A large earthquake has struck the Pacific Ocean in the north of Vanuatu, killing at least a dozen people."
+726,8670,1794993527.678,74.137,73.98,0.158,21,1,230.8,442.0,Britain's Chris Gatlin won the 200m at the European Championships in Brussels.
+727,947,1794993527.775,95.78,95.622,0.159,28,1,230.8,442.0,"French mosques are taking part in a ""brotherly cup of tea"" to mark the anniversary of the Paris attacks."
+728,6167,1794993527.86,83.856,83.701,0.155,26,1,230.8,442.0,"The use of smacking in Scotland and the UK is ""strong and consistent"", according to a new report."
+729,6694,1794993527.927,65.843,65.684,0.16,20,1,230.8,442.0,Police searching for missing woman Joanna Yeates have released a video of her disappearance.
+730,138,1794993528.049,121.032,120.852,0.18,36,1,230.8,442.0,Britain's Chris Cassells and Mark Scrimgeour won gold in the lightweight double sculls at the European Championships in Rotterdam.
+731,6835,1794993528.131,80.222,80.064,0.157,23,1,230.8,442.0,A teenager who was hit by a bike in the early hours of the morning has been named by police.
+732,5253,1794993528.23,98.842,98.683,0.159,29,1,230.8,442.0,Dundee United have signed striker Darren Keatings from Championship side Tannadice for an undisclosed fee.
+733,7230,1794993528.311,80.186,80.025,0.162,23,1,230.8,442.0,"The Metropolitan Police has said it is ""dangerous"" to have firearm officers think twice about shooting people."
+734,3342,1794993528.389,77.098,76.938,0.16,22,1,230.8,442.0,"A wildfire in California has destroyed more than 100 homes and destroyed more than 100 homes, officials say."
+735,6088,1794993528.492,100.734,100.575,0.159,32,1,230.8,442.0,Jose Mourinho's first Premier League return to Manchester United was a surprise as his side beat Chelsea to move up to fourth in the table.
+736,4805,1794993528.582,89.694,89.535,0.159,26,1,230.8,442.0,The All-amputee team who completed the Talisker Challenge in the Caribbean have been praised for their support.
+737,1491,1794993528.651,67.677,67.518,0.159,19,1,230.8,442.0,A £15m fund to boost the Northern Powerhouse has been given to the region.
+738,3038,1794993528.716,64.444,64.265,0.179,18,1,230.8,442.0,A bomb disposal unit has been found in a car in the centre of Glasgow.
+739,1779,1794993528.817,99.437,99.271,0.166,29,1,230.8,442.0,England's Chris Davis has been beaten 6-2 by China's Ding Junhui in the World Championship qualifier in London.
+740,4537,1794993528.938,119.496,119.3,0.196,38,1,230.8,442.0,"The infamous ""greed is good"" ethos of the City has been a saga of a number of people who have been paying their salaries for years."
+741,1837,1794993529.019,80.251,80.091,0.16,23,1,230.8,442.0,"The BBC has been branded a ""serial book of the year"" by author Mark Harris."
+742,9145,1794993529.075,55.081,54.921,0.16,15,1,230.8,442.0,A restaurant in Edinburgh has been closed after a fire broke out.
+743,9921,1794993529.153,77.061,76.901,0.159,22,1,230.8,442.0,A man has been cleared of murdering a woman who went missing in the Republic of Ireland in 2012.
+744,11275,1794993529.25,95.637,95.465,0.172,28,1,230.8,442.0,West Ham have sacked referee Mike Dean after he was criticised for his performance in the FA Cup third round.
+745,2521,1794993529.359,108.567,108.409,0.158,32,1,230.8,442.0,Britain's Tom Yates won the first stage of the Tour of France as he beat fellow Frenchman Simon Sagan to win the final stage.
+746,7309,1794993529.428,67.466,67.287,0.179,19,1,230.8,442.0,A 16-year-old boy has been stabbed to death in west London.
+747,6533,1794993529.508,79.853,79.698,0.155,23,1,230.8,442.0,A vicar has been suspended by the police after he was arrested on suspicion of a sexual assault.
+748,3037,1794993529.615,105.312,105.154,0.158,31,1,230.8,442.0,"A man who died in a crash with a lorry in the Highlands has been described as a ""loving family man""."
+749,6909,1794993529.699,83.37,83.224,0.146,26,1,230.8,442.0,The Myanmar government has signed a collective agreement with armed groups that have been involved in conflict since independence from the British.
+750,7073,1794993529.787,86.051,85.892,0.158,27,1,230.8,442.0,Malawi have been knocked out of the Africa Rugby Association (CHAN) in the second round of the Africa Cup of Nations.
+751,2862,1794993529.925,136.852,136.685,0.167,41,1,230.8,442.0,"Facebook chief executive Elon Musk has said that the explosion of a rocket at Cape Canaveral in the US was the ""most difficult and complex failure"" of his company's history."
+752,4062,1794993530.006,80.23,80.072,0.158,23,1,230.8,442.0,"The Grammy Awards are being held in the US in the US, in the US, in the first time."
+753,7429,1794993530.108,101.046,100.886,0.16,32,1,230.8,442.0,The UK's referendum campaign has been criticised by a campaign group for a review of the way the UK voted to leave the EU.
+754,5576,1794993530.185,74.652,74.491,0.161,23,1,230.8,442.0,"The government should make it harder for families to get by, let alone get up, a report says."
+755,8574,1794993530.266,80.454,80.293,0.161,25,1,230.8,442.0,Lifeguards are being patrolled on beaches in England and Wales to ensure they are not used to protect swimmers.
+756,2335,1794993530.343,74.809,74.646,0.162,23,1,230.8,442.0,Rangers have announced that it is to raise a share offer of about £25m for the club.
+757,5822,1794993530.472,127.775,127.591,0.185,38,1,230.8,442.0,Japanese boxer Shinzo Yafai won his first WBC welterweight title with a 6-3 6-3 victory over Japanese Mauranaka Muranaka.
+758,7576,1794993530.553,80.586,80.428,0.158,23,1,230.8,442.0,A former umpire from the Republic of Ireland has been named as the first female official in the sport.
+759,10346,1794993530.67,115.057,114.892,0.165,34,1,230.8,442.0,A python has crawled into the landing bay of a plane after it was spotted hamming its head against the engine.
+760,10441,1794993530.83,159.185,159.009,0.176,48,1,230.8,442.0,Rory McIlroy is in contention for a second PGA Tour title after a three-under-par 67 from David Dubuisson and David van Zyl in the second round of the Dubai Open.
+761,1417,1794993530.934,102.424,102.255,0.168,30,1,230.8,442.0,A French airline has been charged with causing the death of 152 people by dangerous driving after a plane crashed in the Mediterranean Sea in 2007.
+762,7918,1794993531.007,71.671,71.511,0.16,22,1,230.8,442.0,It's been a long time since the European Parliament voted to end the crisis in Cyprus.
+763,3336,1794993531.097,89.278,89.117,0.161,26,1,230.8,442.0,"A man accused of causing the Dow Jones index to fall by a ""flash crash"" has appeared in court."
+764,4828,1794993531.22,121.459,121.292,0.167,39,1,230.8,442.0,"The SNP has been praised by Scottish Labour leader Nicola Davdison as she urged the Conservatives to ""get in the way"" of their election campaign."
+765,30,1794993531.316,95.661,95.498,0.163,28,1,230.8,442.0,Britain's Laura Ennis-Hill has won the Gotzis Hypo-Meeting Championships in London.
+766,7357,1794993531.391,73.738,73.581,0.158,21,1,230.8,442.0,A man from Pontypridd has been nominated for the 2016 St David Awards.
+767,10137,1794993531.503,111.576,111.416,0.16,33,1,230.8,442.0,Lionel Messi scored his first La Liga goal of the season as Barcelona beat Atletico Madrid 2-1 to move up to third in the table.
+768,7569,1794993531.6,95.52,95.358,0.162,28,1,230.8,442.0,A Welsh court has ruled that a forestry authority should not have been granted permission to run a series of overhead cables.
+769,127,1794993531.671,70.379,70.22,0.159,20,1,230.8,442.0,A buzzard has been freed from a fence after he was caught on camera.
+770,3583,1794993531.752,80.162,80.0,0.161,23,1,230.8,442.0,A man who bought stun guns disguised as a torch has been found guilty of importing them.
+771,4891,1794993531.849,94.544,94.385,0.159,30,1,230.8,442.0,"The Legend of the Monkey is to be re-released on Netflix in China, bringing back the classic classic to the country."
+772,1875,1794993531.939,89.5,89.337,0.163,26,1,230.8,442.0,"A new toilet in China will open to the public on Thursday, with the aim of a new double female stall."
+773,10304,1794993532.004,64.194,64.034,0.16,18,1,230.8,442.0,A fund to help build new social housing in Scotland has been awarded £30m.
+774,4934,1794993532.102,96.87,96.711,0.159,28,1,230.8,442.0,The first trams to be reintroduced into Birmingham have been reintroduced to the city centre.
+775,8932,1794993532.24,137.023,136.857,0.166,41,1,230.8,442.0,Barclays has agreed to pay $1.5bn (£4bn) to settle a legal threat from the US after it was accused of rigging a rate of interest.
+776,9980,1794993532.328,86.035,85.874,0.16,27,1,230.8,442.0,"Facebook has released a new map of the world's population, a move it hopes could help it locate vulnerable people."
+777,2559,1794993532.437,108.127,107.966,0.161,32,1,230.8,442.0,The London Stock Exchange (LSE) and Deutsche Boerse have agreed to merge in a deal worth about €100m (£100m).
+778,6950,1794993532.543,105.542,105.381,0.16,31,1,230.8,442.0,"Newcastle United manager Michael Vaughan says he is determined to make the Championship season ""relentless"" by signing striker Joey Jones."
+779,7723,1794993532.612,67.323,67.165,0.158,19,1,230.8,442.0,A container ship has arrived at the Port of Suffolk to take its cargo to the UK.
+780,1516,1794993532.874,260.755,260.58,0.175,87,1,230.8,442.0,Mae pêl-droed yn ôl ym Môn wedi bod yn rhan fywyd i dîm lleol yn ysgoloriaeth i dderbyn yr UDA yn ysgoloriaeth.
+781,11111,1794993532.956,80.685,80.523,0.162,25,1,230.8,442.0,Rangers boosted their hopes of a Premiership finish with a deserved win over Queen of the South.
+782,8153,1794993533.025,67.518,67.362,0.156,19,1,230.8,442.0,A Ferrari has been moved around the house of a former Ferrari racing car in Kensington.
+783,3807,1794993533.09,64.372,64.217,0.156,18,1,230.8,442.0,The University of Pakistan has launched a new course in the English language Urdu.
+784,8908,1794993533.183,92.401,92.242,0.159,27,1,230.8,442.0,Derbyshire have signed former England fast bowler James Cotton and former England captain Joe Taylor on loan until the end of the season.
+785,6640,1794993533.255,70.655,70.511,0.145,20,1,230.8,442.0,Police have arrested four men in connection with a suspected drug smuggling operation.
+786,4588,1794993533.319,62.857,62.701,0.156,19,1,230.8,442.0,Scotland fought back from 2-0 down to beat Georgia 24-11 in the Scottish Cup.
+787,10355,1794993533.396,75.171,75.015,0.156,23,1,230.8,442.0,Michael Dunlop won the World Superbike Championship in London with a pole position in the final practice session.
+788,1979,1794993533.498,100.673,100.513,0.16,32,1,230.8,442.0,"Scientists have warned that a glacier in the Himalayas is disintegrating and may be forming a ""big chain"" of lakes."
+789,4424,1794993533.62,121.004,120.841,0.163,36,1,230.8,442.0,"Great Britain will be able to win a record number of Olympic and Paralympic medals at the 2016 Winter Games in Sochi, UK Sport has said."
+790,10952,1794993533.689,67.72,67.564,0.156,19,1,230.8,442.0,Cornwall beat Surrey to reach the Scottish Cup final and reach the final of the County Championship.
+791,664,1794993533.763,73.946,73.754,0.192,21,1,230.8,442.0,A new £20m research centre in Dumfries is to be opened to the public.
+792,4,1794993533.872,107.006,106.843,0.162,34,1,230.8,442.0,"A diet that regenerated a cell in the pancreas has been shown to be a ""very important"" way to treat type 1 diabetes."
+793,4203,1794993533.954,80.456,80.296,0.16,23,1,230.8,442.0,Glasgow Flyers have been crowned the first team to win the BBL Championship and WBBL Trophy.
+794,6527,1794993534.051,95.829,95.685,0.144,30,1,230.8,442.0,"Bayern Munich boss Pep Guardiola says he is ""the coach of extraordinary players"" after his side beat Porto in the Champions League."
+795,8619,1794993534.133,80.317,80.155,0.162,23,1,230.8,442.0,A group of gulls have been caught poaching eggs from a colony in Dorset.
+796,9529,1794993534.215,80.546,80.385,0.161,25,1,230.8,442.0,A man who was killed in a London street attack has been awarded a Spanish state award for his bravery.
+797,6491,1794993534.274,57.731,57.575,0.156,17,1,230.8,442.0,Google has launched a project to cluster large balloons over the Pacific Ocean.
+798,7284,1794993534.386,110.388,110.167,0.221,35,1,230.8,442.0,"A man who was arrested in the US for plotting to kill a number of people in the UK has been described as a ""cool, relaxed"" man."
+799,1671,1794993534.469,81.081,80.92,0.162,25,1,230.8,442.0,"The Scottish Parliament has been questioned by a poll of more than 1,000 people on the issue of tax and welfare."
+800,5797,1794993534.552,83.224,83.066,0.158,24,1,230.8,442.0,A man has been taken to hospital after being shot in the head in a house fire in Londonderry.
+801,4643,1794993534.659,105.454,105.292,0.162,31,1,230.8,442.0,Nottinghamshire's Darren Trescothick hit a century as Somerset dominated the first day of the County Championship match at Trent Bridge.
+802,11019,1794993534.765,105.279,105.119,0.16,31,1,230.8,442.0,"Glamorgan will play their first match in the T20 Blast in the summer, with the finals day at Edgbaston."
+803,3211,1794993534.859,92.522,92.362,0.16,27,1,230.8,442.0,"Three women have been arrested in connection with a child's ""sustained injuries"" at a school in Leicester."
+804,9755,1794993534.952,92.262,92.103,0.159,27,1,230.8,442.0,A man who was injured in the Giro d'Italia race has been taken to hospital after a crash.
+805,1396,1794993535.052,98.416,98.255,0.161,31,1,230.8,442.0,"Venezuela's government has announced sanctions against the US and other countries, including the president, in a vote to elect a new constituency."
+806,580,1794993535.155,102.043,101.88,0.163,30,1,230.8,442.0,"The Green Party has said it is ""unprepared"" for Brexit talks and ""arrogant"" reports about the UK's EU referendum."
+807,1154,1794993535.211,54.906,54.752,0.154,15,1,230.8,442.0,A plane carrying 62 passengers has landed safely at Edinburgh Airport.
+808,4300,1794993535.284,71.333,71.176,0.156,22,1,230.8,442.0,A new inquiry into historical child abuse in north Wales has found that it is more widespread than previously thought.
+809,5007,1794993535.358,73.414,73.256,0.158,21,1,230.8,442.0,A man has been arrested after he posted a selfie on Facebook with a police officer.
+810,8743,1794993535.464,105.062,104.903,0.159,31,1,230.8,442.0,A police watchdog is to investigate the response of a 72-year-old man who was found dead at a sheltered housing complex.
+811,5568,1794993535.563,97.648,97.489,0.159,31,1,230.8,442.0,"The name Toshack Jr is a ""successful"" man who has been a manager for more than 20 years."
+812,1936,1794993535.644,79.873,79.714,0.159,23,1,230.8,442.0,Wigan Warriors prop Adam Flower has been banned for six games for elbowing a man in the head.
+813,8686,1794993535.725,80.283,80.125,0.158,25,1,230.8,442.0,Ospreys have made three changes to their squad for the European Champions Cup match against Grenoble.
+814,4080,1794993535.818,91.706,91.557,0.15,29,1,230.8,442.0,A council in Nottinghamshire is hoping to win back a seat in every ward after the Conservatives lost their first term in power.
+815,2679,1794993535.935,115.303,115.135,0.168,37,1,230.8,442.0,"A man who died in a crash on the M4 in which a car was driven by a colleague has been described as a ""kind-hearted"" man."
+816,1115,1794993536.009,72.0,71.829,0.171,22,1,230.8,442.0,A scheme to allow people to vote in Northern Ireland's local elections has been approved by the government.
+817,6796,1794993536.114,103.839,103.679,0.159,33,1,230.8,442.0,Roald Dahl has created a dictionary that uses sounds like lickswishy and delumptious to write children's books.
+818,4746,1794993536.214,98.621,98.457,0.164,31,1,230.8,442.0,"The University of Groningen is a small town in the Netherlands, but it is a small town in the north of the country."
+819,4632,1794993536.279,63.346,63.189,0.157,19,1,230.8,442.0,The TUC has backed industrial action against cuts to public services and the welfare state.
+820,8516,1794993536.369,89.336,89.175,0.161,26,1,230.8,442.0,Burton Albion have signed goalkeeper Stephen Bywater from League One side Sheffield Wednesday on a two-year deal.
+821,2202,1794993536.464,93.638,93.472,0.166,27,1,230.8,442.0,"Shakespeare's ""soft power"" is to be used to promote the arts and culture of the UK, the government has announced."
+822,9404,1794993536.558,92.934,92.774,0.161,27,1,230.8,442.0,A woman has been charged with the murder of a baby girl who went missing in the UK more than a year ago.
+823,10275,1794993536.657,97.932,97.771,0.161,31,1,230.8,442.0,A celebrity who has allegedly had a sexual encounter with another person has been given a temporary injunction to keep him in the UK.
+824,3445,1794993536.736,77.876,77.718,0.158,24,1,230.8,442.0,A former US gymnast has been ordered to stand trial for sexually abusing a woman in his home.
+825,8706,1794993536.846,108.435,108.276,0.159,32,1,230.8,442.0,"A teaching assistant accused of raping a pregnant woman has told a court he was ""too young"" to have a baby."
+826,6730,1794993536.93,83.181,83.023,0.158,24,1,230.8,442.0,A police force has been criticised for failing to improve its code of ethics in a report into sexual misconduct.
+827,10397,1794993537.006,74.394,74.242,0.152,23,1,230.8,442.0,"The Jamaican anti-doping commissioner has said the country's drugs tests are ""not good""."
+828,8905,1794993537.117,109.813,109.65,0.163,35,1,230.8,442.0,"The UK's first EU referendum has been declared, but it is not possible for Scotland to hold a second referendum, according to the BBC's Reality Check."
+829,6609,1794993537.218,99.041,98.882,0.159,29,1,230.8,442.0,"The Welsh Government could be forced to cut stamp duty if it is to raise more of its own income, a report has claimed."
+830,4564,1794993537.298,79.9,79.742,0.158,23,1,230.8,442.0,Lancashire all-rounder Tom Smith has announced he will retire at the end of the season.
+831,4788,1794993537.389,89.293,89.133,0.16,26,1,230.8,442.0,"A former Northern Ireland government minister is to investigate a private finance initiative which was branded a ""very bad deal""."
+832,7247,1794993537.511,121.049,120.882,0.166,36,1,230.8,442.0,BBC Northern Ireland has been named the BBC's Scoop of the Year for its annual investigation into the alleged rape of a woman in the 1970s.
+833,6091,1794993537.587,74.861,74.7,0.161,23,1,230.8,442.0,The European Central Bank has a new policy to cut the amount of money it gets from the borrower.
+834,9309,1794993537.658,69.312,69.154,0.158,21,1,230.8,442.0,The government has announced plans to publish satellites and a new government to help boost the economy.
+835,10302,1794993537.758,99.038,98.878,0.16,29,1,230.8,442.0,England defender Garbutt has been banned for two games after a sex attack in the 2-1 defeat by South Africa.
+836,2257,1794993537.831,71.813,71.654,0.159,22,1,230.8,442.0,England's Chris Lewis and David Cutts won gold medals at the Commonwealth Games in London.
+837,2573,1794993537.931,98.575,98.416,0.159,31,1,230.8,442.0,"Lewis Hamilton's record-breaking win in the Formula 1 world championship is a hugely important factor in his career, according to the BBC."
+838,2020,1794993538.012,80.42,80.261,0.159,23,1,230.8,442.0,"Julie Hesmondhalgh has been appointed as the patron of Broadchurch, the BBC has learned."
+839,1974,1794993538.107,93.137,92.975,0.162,27,1,230.8,442.0,"A dig at a site in the centre of Stonehenge has found a ""historic"" fossilised carbon dating site."
+840,6249,1794993538.191,83.186,83.027,0.159,26,1,230.8,442.0,Doncaster's hopes of a League Two play-off place were ended as they were beaten at Stevenage.
+841,6573,1794993538.285,92.872,92.72,0.151,27,1,230.8,442.0,"Tata Steel has been fined and ordered to pay £70,000 after releasing a chemical that could have caused multiple deaths."
+842,9683,1794993538.388,101.095,100.928,0.167,32,1,230.8,442.0,Clermont Auvergne climbed to the top of the Pro12 table with a bonus-point win over Sale at the SSE Arena.
+843,7666,1794993538.484,95.728,95.574,0.154,28,1,230.8,442.0,A new museum is to open in Anglesey to mark the 100th anniversary of the opening of a historic fort.
+844,2286,1794993538.554,68.79,68.633,0.158,21,1,230.8,442.0,A new arch has been built at the Chernobyl nuclear reactor in the Ukraine region.
+845,9168,1794993538.665,109.159,108.997,0.162,35,1,230.8,442.0,"A police force has seized a number of Kalashnikovs and bomb-making equipment in the Belgian town of Verviers, officials say."
+846,10948,1794993538.761,95.622,95.449,0.173,28,1,230.8,442.0,The unions representing Durham County Council's teaching assistants have backed a deal to resolve a dispute over new contracts.
+847,4898,1794993538.846,83.285,83.119,0.167,26,1,230.8,442.0,"Lenovo has said it is ""deeply investigating"" claims that it has removed a software that it says can intercept products."
+848,5800,1794993538.956,108.178,108.016,0.162,32,1,230.8,442.0,A US soldier who died in a bombing crash in the Isle of Man has been named as a 92-year-old British soldier.
+849,10356,1794993539.03,73.686,73.525,0.16,21,1,230.8,442.0,Flood warnings have been issued to the north Wales coast after the flooded Dunes were closed.
+850,7744,1794993539.121,89.47,89.311,0.159,26,1,230.8,442.0,A police officer has been praised for firing a Taser to help a man set fire to his home.
+851,3571,1794993539.217,95.074,94.913,0.162,30,1,230.8,442.0,"The number of children and young people being sexually abused by Asian men is at a ""significant risk"", according to a report."
+852,8009,1794993539.343,123.825,123.662,0.163,40,1,230.8,442.0,Aston Villa's relegation from the Premier League was ended as Tottenham's defender Adam Davies scored twice in the first half to earn a draw at the FA Cup.
+853,8217,1794993539.445,101.736,101.576,0.16,30,1,230.8,442.0,"The Northern Ireland Executive is ""on the edge of devolution being set aside"", the former leader of the Northern Ireland Unionists has said."
+854,8072,1794993539.545,98.91,98.749,0.161,29,1,230.8,442.0,"Nottingham Panthers head coach Robbie Neilson says the team's performance at the National Ice Centre is ""special"" and ""special""."
+855,10683,1794993539.62,73.743,73.584,0.158,21,1,230.8,442.0,Russian hacker Roman Seleznev has been found guilty of stealing millions of credit card numbers.
+856,986,1794993539.727,105.14,104.981,0.159,31,1,230.8,442.0,A football club have been asked to send a photo of a bride-to-be to a church after a bridge collapsed.
+857,7274,1794993539.813,86.077,85.917,0.161,25,1,230.8,442.0,A new £100m education project in Denbighshire has been given the go-ahead by the council.
+858,4918,1794993539.875,61.014,60.862,0.151,17,1,230.8,442.0,A woman has been seriously injured after being hit by a car in Aberdeen.
+859,2339,1794993539.963,86.194,86.031,0.162,27,1,230.8,442.0,German Chancellor Angela Merkel has been a bit of a sceptical about the country's migration crisis.
+860,8118,1794993540.033,68.751,68.59,0.161,21,1,230.8,442.0,The Welsh Secretary has said there can be no veto over the UK's Brexit policy.
+861,858,1794993540.106,71.923,71.764,0.159,22,1,230.8,442.0,A Ukrainian doctor has been urged to keep his medical records after a computer glitch in his clinic.
+862,10176,1794993540.181,73.783,73.625,0.158,21,1,230.8,442.0,"Two Japanese climbers have been found dead on the Matterhorn, the world's highest mountain."
+863,3534,1794993540.256,73.698,73.541,0.157,21,1,230.8,442.0,A group of Arctic terns have been filmed kicking and kicking their nests.
+864,418,1794993540.425,167.459,167.294,0.165,55,1,230.8,442.0,"The re-election of the Syrian-Syrian border in the Middle East is a sombre moment, but it is a moment when the re-election of the region's borders is a sigh of relief."
+865,7725,1794993540.521,94.903,94.742,0.161,30,1,230.8,442.0,"A levy on soft drinks will be used to pay for schools in England to help reduce child obesity, a community charity has said."
+866,6405,1794993540.627,105.255,105.091,0.164,31,1,230.8,442.0,"Pope Francis has called for a ""simple, balanced, consistent"" and ""compassion"" to help Christians in the world of Christ."
+867,165,1794993540.721,91.96,91.768,0.192,29,1,230.8,442.0,"The Euro 2016 finals are set to be held in France on Saturday, with the team hoping to retain the title they won in 2004."
+868,8631,1794993540.821,98.992,98.833,0.159,29,1,230.8,442.0,The number of eels found on a river in Norfolk has risen by more than a third in the past five years.
+869,1088,1794993540.93,108.323,108.162,0.16,32,1,230.8,442.0,The US state of emergency in Baltimore has been lifted after a soldier was arrested and killed in a protest over the death of a black man.
+870,11254,1794993541.014,83.062,82.912,0.15,24,1,230.8,442.0,Great Britain's women were beaten 2-1 by North Korea in the Women's World Cup Group A.
+871,1333,1794993541.089,73.873,73.714,0.158,21,1,230.8,442.0,A rare turtle that washed up on two beaches in Cumbria has been found dead.
+872,11244,1794993541.194,103.456,103.293,0.164,33,1,230.8,442.0,"The number of first-time mortgages granted to home buyers in the UK has fallen to its lowest level in a year, according to a survey."
+873,10961,1794993541.293,97.877,97.715,0.162,31,1,230.8,442.0,A council has offered to provide lifeguards at Camber Sands to help the beachgoers in the wake of the deaths of five men.
+874,6473,1794993541.326,31.187,31.034,0.153,8,1,230.8,442.0,A chronology of key events:
+875,105,1794993541.407,80.126,79.966,0.16,23,1,230.8,442.0,League Two side Burnley have signed former Blackpool defender Chris Bishop on a one-year deal.
+876,5919,1794993541.472,64.312,64.154,0.158,18,1,230.8,442.0,A man has been seriously injured after being hit by a car in County Down.
+877,674,1794993541.539,65.941,65.783,0.158,20,1,230.8,442.0,Wolves boosted their hopes of a Premiership survival by beating Burton Albion.
+878,1903,1794993541.636,95.771,95.611,0.16,28,1,230.8,442.0,Guiseley have signed midfielder Ryan Hurst on a one-month loan deal from Mansfield Town.
+879,10172,1794993541.709,71.868,71.712,0.156,22,1,230.8,442.0,Scientists have sequenced the genome of a fungus that causes the disease in East Anglia.
+880,61,1794993541.784,73.826,73.665,0.16,21,1,230.8,442.0,"A drone has flown within the air traffic zone near a London airport, police have said."
+881,4429,1794993541.852,67.338,67.177,0.16,19,1,230.8,442.0,"US tennis star Venus Williams has died after a car crash in Florida, police say."
+882,10491,1794993541.936,83.112,82.97,0.143,24,1,230.8,442.0,Gillingham slipped to the top of the Championship after a 2-0 defeat by Shrewsbury Town.
+883,4792,1794993542.027,89.598,89.418,0.18,26,1,230.8,442.0,A water company has apologised after a number of homes in the north of England were flooded with water.
+884,3714,1794993542.126,97.765,97.607,0.158,31,1,230.8,442.0,A man has admitted raping and murdering a 15-year-old girl who was pinned to the ground by a witness.
+885,2304,1794993542.191,64.265,64.106,0.159,18,1,230.8,442.0,Former Scotland Councillor David Matheson is to be the new mayor of Glasgow.
+886,9385,1794993542.288,95.467,95.309,0.158,28,1,230.8,442.0,A man has been found guilty of stealing a woman's handbag from a bridge after she fell to the ground.
+887,4717,1794993542.376,86.752,86.591,0.161,25,1,230.8,442.0,A museum in Leicestershire has been closed after a bid to save £95m from a lottery was rejected.
+888,3132,1794993542.491,114.747,114.594,0.153,34,1,230.8,442.0,The World Anti-Doping Agency (Wada) has suspended the laboratory of the Russian anti-doping group Bloemfontein.
+889,1727,1794993542.605,112.781,112.617,0.163,36,1,230.8,442.0,Northern Ireland manager Michael O'Neill says he has been unable to get on with his team - because he was not allowed to cross the border with Germany.
+890,7110,1794993542.68,73.69,73.534,0.157,21,1,230.8,442.0,Trinity have signed Newcastle winger Tyler McBride on a two-year deal.
+891,7551,1794993542.76,79.891,79.737,0.154,23,1,230.8,442.0,Bristol City have signed former Halifax striker Lee McBrayne on a two-year deal.
+892,6293,1794993542.854,92.676,92.506,0.17,27,1,230.8,442.0,"England's James Milkins says he is ""out of it now"" after losing his first match at the UK Championship."
+893,2756,1794993542.964,108.686,108.523,0.162,32,1,230.8,442.0,The winner of the Dubai Golf Championship has slipped to a third round after a three-under-par 68 at the PGA Championship.
+894,5418,1794993543.041,76.87,76.715,0.156,22,1,230.8,442.0,The UK's first emoji flags have been introduced to the software of the UK.
+895,10616,1794993543.094,51.038,50.884,0.154,15,1,230.8,442.0,Michael Johnston has been appointed chairman of Kilmarnock FC.
+896,11263,1794993543.19,94.505,94.339,0.166,30,1,230.8,442.0,"The number of people living with tuberculosis in the world is at its highest level, according to a leading health expert."
+897,7131,1794993543.28,88.97,88.812,0.158,28,1,230.8,442.0,"Theresa May is expected to hear a number of questions about her leadership, but it is not as bad as she was."
+898,2425,1794993543.367,86.197,86.04,0.158,25,1,230.8,442.0,A Chinese man has been able to live in a capsule that he grew in a space station.
+899,7328,1794993543.442,73.885,73.728,0.157,21,1,230.8,442.0,"Ireland's economy has risen by 1.5% in the first quarter, according to official figures."
+900,2416,1794993543.498,54.015,53.85,0.165,16,1,230.8,442.0,A doctor has warned people to be careful when they are using social media.
+901,8587,1794993543.579,80.191,80.033,0.158,23,1,230.8,442.0,Kenya's athletics governing body has suspended a former marathon champion for two years for doping.
+902,5178,1794993543.647,67.501,67.352,0.149,19,1,230.8,442.0,A former children's home has been closed after a series of sexual abuses.
+903,2117,1794993543.801,152.974,152.789,0.185,46,1,230.8,442.0,"Derbyshire's Joe Clarke says his first-class century for the county was ""very slow"" and ""thanks"" to a ""thank you"" to a ""fantastic"" batsman."
+904,3422,1794993543.914,112.001,111.838,0.162,33,1,230.8,442.0,A man who was found dead in a street in Glasgow has been named by police as a 21-year-old who was last seen on Monday.
+905,3060,1794993543.989,73.695,73.536,0.159,21,1,230.8,442.0,A man has been injured after a firework was dropped through a shop in north Belfast.
+906,7276,1794993544.082,91.796,91.633,0.163,29,1,230.8,442.0,Leeds United defender David Denton scored twice as the Hatters beat Luton to move into the League Two play-off places.
+907,5720,1794993544.166,83.203,83.045,0.158,24,1,230.8,442.0,Stuart Pearce has been recalled from his England debut after a 1-0 defeat by Bisham Abbey.
+908,6371,1794993544.238,70.747,70.589,0.158,20,1,230.8,442.0,A man who chased police cars for more than a month has been jailed.
+909,7000,1794993544.363,124.338,124.175,0.163,37,1,230.8,442.0,"Paraguay's President, Emmanuel Macron, has said he will not run again after a series of riots in the country's lower house."
+910,8060,1794993544.47,105.267,105.108,0.158,31,1,230.8,442.0,"The family of a British man who was killed in India have said they are ""in shock"" after he was arrested on suspicion of murder."
+911,6382,1794993544.569,98.77,98.608,0.162,29,1,230.8,442.0,"A skeleton of a plague that killed more than 2,000 people in Europe has been found in the US state of New York."
+912,3607,1794993544.645,74.315,74.157,0.158,21,1,230.8,442.0,A man who took pictures of women at two railway stations has been jailed for 18 months.
+913,3214,1794993544.735,88.908,88.746,0.163,28,1,230.8,442.0,"A mystery mystery has been discovered about a monster in Loch Ness in the Highlands, according to a conservation charity."
+914,7197,1794993544.797,59.969,59.81,0.159,18,1,230.8,442.0,Alan Stubbs has been appointed head coach of Scottish Championship side Hibernian.
+915,3346,1794993544.925,127.139,126.97,0.169,41,1,230.8,442.0,"India's Chand was a ""stupid"" athlete who was a ""stupid"" athlete, but she was a ""stupid"" athlete."
+916,9609,1794993544.978,51.458,51.304,0.155,15,1,230.8,442.0,It is a town that is a world of shipbuilding.
+917,815,1794993545.078,98.7,98.539,0.162,29,1,230.8,442.0,The Archbishop of Canterbury has said he wants to make a fixed Easter date for the first time since the 10th Century.
+918,6362,1794993545.169,89.589,89.426,0.163,28,1,230.8,442.0,US President Donald Trump has defended his claims that he was referring to a video of Iran being sent to hostages.
+919,545,1794993545.249,78.108,77.952,0.156,24,1,230.8,442.0,"The Antarctic emperors are able to breed on ice shelves, according to a new study."
+920,3834,1794993545.311,61.272,61.116,0.156,17,1,230.8,442.0,Nigeria have announced the winners of the 2017 Africa Cup of Nations in Abuja.
+921,10373,1794993545.395,83.128,82.97,0.158,24,1,230.8,442.0,Afghan police chief Abdul Rahman Rahimi has been sacked after a series of attacks in the country.
+922,5957,1794993545.497,100.49,100.329,0.161,32,1,230.8,442.0,The US has signed a new administration to the Trade Union (TPP) in a deal that will see the US withdraw from the trade agreement.
+923,933,1794993545.581,83.15,82.992,0.158,24,1,230.8,442.0,More than 200 people have been arrested in West Yorkshire over the sexual abuse of a girl in the 1970s.
+924,10454,1794993545.666,83.225,83.065,0.16,26,1,230.8,442.0,A villager in the Bangladeshi village of Joba has been forced to sell her crops to help her repay her loans.
+925,11100,1794993545.778,109.944,109.781,0.163,35,1,230.8,442.0,"A cock-up by a gang of blunderers has been branded ""scrabble"" by the National Police Commission (NCP)."
+926,2840,1794993545.862,83.049,82.889,0.16,24,1,230.8,442.0,Manchester United manager Louis van Gaal says the Europa League will not be easy after their 2-1 defeat by Chelsea.
+927,3818,1794993546.025,162.06,161.891,0.169,49,1,230.8,442.0,"Scarlets head coach Wayne Pivac has criticised the way he handled the attack on England's Chris Skelton, who was hit by a squeaky punch in the first leg of the Euro 2016 final."
+928,10007,1794993546.098,71.458,71.287,0.172,22,1,230.8,442.0,"The UK will not be allowed to stay in the EU, the EU's first minister has said."
+929,4874,1794993546.176,77.091,76.933,0.158,22,1,230.8,442.0,"Football tickets for Manchester United have been bought by a college, a whistleblower has said."
+930,10035,1794993546.307,129.868,129.692,0.176,42,1,230.8,442.0,The British and Irish Lions have a big chance of a place in the squad for the tour of Australia after winger Lee Hogg was ruled out for the rest of the season.
+931,1419,1794993546.392,83.78,83.614,0.165,24,1,230.8,442.0,Orlando City have signed Brazilian forward Marta from Brazilian side FC Fifa for an undisclosed fee.
+932,8390,1794993546.457,64.193,64.035,0.158,18,1,230.8,442.0,A man has been rescued after falling from a mountain in the Highlands.
+933,4660,1794993546.529,70.709,70.55,0.159,20,1,230.8,442.0,A new scanner at the University of Belfast has been installed in a children's hospital.
+934,5784,1794993546.61,80.18,80.023,0.158,25,1,230.8,442.0,"The Scottish Labour Party can no longer turn to the ""big beasts"", the party's new leader has said."
+935,6740,1794993546.697,86.166,86.016,0.15,25,1,230.8,442.0,Southampton midfielder Chris McQueen has joined League Two side Essex on a season-long loan deal.
+936,7508,1794993546.769,70.61,70.45,0.159,20,1,230.8,442.0,A carer who stole a disabled man's bank account has been jailed.
+937,883,1794993546.846,76.768,76.611,0.158,22,1,230.8,442.0,Colchester United thrashed Bradford City to move into the League One play-off places.
+938,10352,1794993546.899,51.495,51.339,0.157,14,1,230.8,442.0,A former Durham University building has been given a new status.
+939,8456,1794993546.989,88.986,88.825,0.161,28,1,230.8,442.0,Cardiff Blues moved to within a point of the Premiership play-off places with a comfortable win over the Dragons.
+940,10625,1794993547.058,67.512,67.355,0.157,19,1,230.8,442.0,The BBC has announced a new TV channel that will broadcast the series Breaking Bad.
+941,7055,1794993547.151,91.803,91.649,0.153,29,1,230.8,442.0,"England coach Wayne Bennett has ""a lot of powers"" to improve his skills, says former England captain Michael O'Loughlin."
+942,9518,1794993547.233,80.543,80.382,0.161,25,1,230.8,442.0,A GP who punched a patient in the head during a disturbance has been given a suspended licence.
+943,7448,1794993547.315,80.255,80.096,0.159,25,1,230.8,442.0,"Lance Armstrong's alleged doping offences are a ""cat"", according to former French cyclist Paul Walsh."
+944,8031,1794993547.424,108.116,107.955,0.16,32,1,230.8,442.0,"British cyclist Paul Brailsford says he is ""not proud"" of the way he handled the allegations of drug-related abuse at Team Sky."
+945,4173,1794993547.527,101.953,101.794,0.159,30,1,230.8,442.0,"A man has been stabbed in the chest in a ""serious attack"" on a road in the Republic of Ireland."
+946,7793,1794993547.64,111.728,111.568,0.16,33,1,230.8,442.0,"A Japanese man who left his son in a hut after he was thrown at people and cars has said he is ""a good dad""."
+947,3529,1794993547.707,65.937,65.781,0.157,20,1,230.8,442.0,A garden in the Noah's Ark Children's Hospital in Cardiff has been officially opened.
+948,5524,1794993547.787,78.096,77.934,0.161,24,1,230.8,442.0,"The Scottish government has approved a £100m offshore wind farm in Aberdeen, the country's first ever."
+949,4356,1794993547.874,86.307,86.148,0.159,25,1,230.8,442.0,A man has been arrested on suspicion of murder after a woman was found dead at a house in Worcestershire.
+950,691,1794993547.93,55.093,54.937,0.157,15,1,230.8,442.0,Three inmates have been reported missing from a prison in Somerset.
+951,717,1794993548.024,92.498,92.338,0.161,29,1,230.8,442.0,A charity has called for a new facility for young men with a rare form of muscular dystrophy to be built in Wales.
+952,861,1794993548.126,100.808,100.629,0.179,32,1,230.8,442.0,A judge has ruled that a British man who was convicted of murdering his wife at a London airport was not a bisexual.
+953,2668,1794993548.229,102.414,102.256,0.157,30,1,230.8,442.0,Plans to relocate a hospital's A&E department to a new site in Shropshire have been backed by the NHS.
+954,5731,1794993548.323,92.83,92.669,0.162,27,1,230.8,442.0,A coroner has said a mental health unit in Cornwall should be closed for six months to prevent inappropriate treatment for adults.
+955,63,1794993548.409,84.197,84.036,0.161,24,1,230.8,442.0,A collection of a World War Two author's books has been digitised by a Scottish library.
+956,10725,1794993548.528,118.011,117.844,0.168,35,1,230.8,442.0,"Turkey has lifted a ban on the wearing of a hijab, a term that has been widely regarded as a symbol of secularism."
+957,116,1794993548.612,83.065,82.904,0.16,24,1,230.8,442.0,A university has been awarded £1.5m to help improve the skills of young people in the field of animal science.
+958,2300,1794993548.703,89.207,89.047,0.159,28,1,230.8,442.0,"Wales captain Paul Gunter says he is ""compressed"" to qualify for Euro 2016 after a 2-1 defeat by Israel."
+959,1043,1794993548.788,83.781,83.603,0.179,24,1,230.8,442.0,Vodafone has said it will not be able to keep its headquarters in Brussels after the UK left the European Union.
+960,7008,1794993548.862,73.772,73.609,0.164,21,1,230.8,442.0,A number of people have been urged to vote in the general election to choose their next leader.
+961,11149,1794993548.953,89.304,89.142,0.162,28,1,230.8,442.0,"A man who murdered a teenager in a ""frenzied"" attack has been given a minimum sentence for her murder."
+962,3639,1794993549.051,96.322,96.159,0.163,28,1,230.8,442.0,Welsh cyclist Chris Rowe has been honoured by Team Sky after he smashed his rib in the Tour de France.
+963,9971,1794993549.141,89.642,89.481,0.161,26,1,230.8,442.0,Jersey's former England and Wales centre Chris Stevens says the club are on the right track to win the Irish Cup.
+964,6496,1794993549.212,69.012,68.854,0.159,21,1,230.8,442.0,A report into the UK's exit from the European Union has suggested it would reduce net migration.
+965,9138,1794993549.306,92.676,92.51,0.166,29,1,230.8,442.0,"The US Supreme Court has ruled that the US government should not destroy the healthcare system, despite a ruling by President Barack Obama."
+966,3620,1794993549.407,100.033,99.87,0.163,29,1,230.8,442.0,Pakistan's army has appointed a senior officer to the role of the Islamic State (ISI) in the country's military.
+967,7433,1794993549.495,86.421,86.263,0.159,25,1,230.8,442.0,A water problem in the north of Yorkshire has caused a number of residents to be unable to return to normal.
+968,3159,1794993549.559,62.796,62.635,0.16,19,1,230.8,442.0,A former children's home in the south of England has been put up for sale.
+969,5562,1794993549.683,123.892,123.742,0.15,37,1,230.8,442.0,National League side Gateshead have signed midfielder Ryan Atkinson on a one-month loan deal from League Two side West Bromwich Albion.
+970,9966,1794993549.768,83.454,83.294,0.16,26,1,230.8,442.0,Hong Kong officials have announced plans to allow passengers to clear the border in one of the country's busiest areas.
+971,1676,1794993549.859,89.63,89.472,0.159,26,1,230.8,442.0,A US university has filed a patent lawsuit against Apple over the use of the technology in some iPhones and iPads.
+972,1402,1794993549.96,99.467,99.305,0.162,29,1,230.8,442.0,Philippine President Rodrigo Duterte has been accused of raping a female missionary in a video posted online.
+973,5226,1794993550.068,106.488,106.325,0.163,34,1,230.8,442.0,The judge who acquitted Pistorius of murdering a woman in Australia has ruled that he should be released on house arrest.
+974,5290,1794993550.158,89.138,88.978,0.16,28,1,230.8,442.0,"The US government has signed a tax-exempt order that would allow religious groups to be targeted, bullied or silenced."
+975,8780,1794993550.227,67.647,67.49,0.157,19,1,230.8,442.0,A crowdfunding campaign to create a memorial to David Bowie has been abandoned.
+976,7466,1794993550.312,83.116,82.953,0.163,24,1,230.8,442.0,"Japanese businessman Yoshim Kita has bought the FT newspaper group, the prestigious digital subscription firm."
+977,5327,1794993550.389,76.956,76.794,0.163,22,1,230.8,442.0,A company that runs the UK's largest airport in Turkey has closed after a spate of attacks.
+978,4186,1794993550.471,80.294,80.135,0.158,23,1,230.8,442.0,A French soldier shot in the shoulder in the French army during World War Two has been awarded a medal.
+979,472,1794993550.574,102.211,102.052,0.159,30,1,230.8,442.0,A boxer who was forced to return to Team Wales after a fight at the Commonwealth Games has been told she will not be competing again.
+980,8552,1794993550.667,92.03,91.869,0.16,29,1,230.8,442.0,The Scottish government's chief Brexit negotiator has said it is hard to see how a separate immigration policy would work.
+981,726,1794993550.752,83.412,83.252,0.159,26,1,230.8,442.0,"The NHS in England has been paid more than £150,000 by the government, according to a group of taxpayers."
+982,3115,1794993550.837,83.252,83.091,0.161,26,1,230.8,442.0,The villagers of the northern Malian city of Timbuktu are preparing to meet their friends and family.
+983,6040,1794993550.906,67.699,67.539,0.16,19,1,230.8,442.0,A former racial equality campaigner has died at the age of 83.
+984,1312,1794993551.023,115.278,115.115,0.163,37,1,230.8,442.0,"The US economy added 18,000 jobs in May, a slowdown that could have been a major factor in the economy's recovery, according to a new report."
+985,3433,1794993551.105,80.426,80.261,0.165,25,1,230.8,442.0,A woman who claims she was sexually harassed by her boss at Uber has been praised for her support.
+986,8593,1794993551.189,83.39,83.231,0.159,26,1,230.8,442.0,A bar worker who was left with severe stomach pain after drinking a shot shot has been jailed for three years.
+987,5664,1794993551.33,139.791,139.626,0.165,42,1,230.8,442.0,"Britain's Chris Froome won the Criterium du Dauphine in Australia by a second time, with Alberto Contador and Richie Porte chasing the title."
+988,3076,1794993551.403,70.922,70.766,0.156,20,1,230.8,442.0,Three brothers have been found guilty of raping and threatening women in Rotherham.
+989,3303,1794993551.458,54.061,53.903,0.158,16,1,230.8,442.0,A council has voted to end the practice of streaming council meetings online.
+990,4116,1794993551.52,60.299,60.141,0.158,18,1,230.8,442.0,"Israel has officially opened its new Palestinian embassy in Jerusalem, the Pope has said."
+991,4936,1794993551.594,73.544,73.395,0.15,21,1,230.8,442.0,"The earthquake in the Republic of Ireland has killed at least 58 people, including a child."
+992,5115,1794993551.654,58.151,57.995,0.156,16,1,230.8,442.0,NHS 24 has announced plans to introduce a new telephone system for patients.
+993,8468,1794993551.722,67.299,67.142,0.157,19,1,230.8,442.0,Chris Evans has won the Manx Grand Prix for the first time in a week.
+994,6302,1794993551.838,115.26,115.095,0.165,37,1,230.8,442.0,"A former soldier has said he is ""upset"" by plans to hold a march in Londonderry to highlight the ""injustices"" faced by soldiers."
+995,4172,1794993551.887,48.529,48.389,0.14,13,1,230.8,442.0,The 2016 Olympics in London have been a huge success.
+996,7898,1794993551.994,105.314,105.153,0.161,31,1,230.8,442.0,A contract to build a dual carriageway in County Antrim has been cancelled after the Department of Transport (DRD) failed to secure it.
+997,5635,1794993552.103,108.189,108.029,0.16,32,1,230.8,442.0,Glamorgan and Essex are in the quarter-finals of the One-Day Cup after a rain-hit day at the SSE Arena.
+998,3931,1794993552.211,106.341,106.179,0.163,34,1,230.8,442.0,"A British woman who was forced to trek to Nepal after the earthquake has said she has been left ""overwhelmed"" by the impact of the earthquake."
+999,729,1794993552.298,86.167,86.02,0.146,25,1,230.8,442.0,A teacher who sexually assaulted a 14-year-old girl has been given a suspended sentence.
