@@ -6,7 +6,7 @@ Each field test takes a new technology for a spin on my own hardware, starting f
 
 | Field test | Post |
 |---|---|
-| [`2026-11-ncm-on-amd-gpu`](2026-11-ncm-on-amd-gpu/) | [Taking NCM for a spin: predictable AI cost can be a design choice, no need for a breakthrough](https://blog.negmbots.com/field-tests/2026-11-ncm-on-amd-gpu/) |
+| [`2026-11-ncm-on-amd-gpu`](2026-11-ncm-on-amd-gpu/) | [Is AI latency really fixed? Taking NCM for a spin](https://blog.negmbots.com/field-tests/2026-11-ncm-on-amd-gpu/) |
 
 Each folder has its own README: the question, what's included, how to rerun it, and the design choices behind the measurements. `tools/` holds the two shared tools every run uses: `collect_env.py` records the software and hardware a run used, `sample_hw.py` samples clocks, power and temperatures every second.
 

@@ -1,6 +1,6 @@
 # Taking NCM for a spin
 
-Code, results and charts behind the field test **[Taking NCM for a spin: predictable AI cost can be a design choice, no need for a breakthrough](https://blog.negmbots.com/field-tests/2026-11-ncm-on-amd-gpu/)** on *Load Bearing*.
+Code, results and charts behind the field test **[Is AI latency really fixed? Taking NCM for a spin](https://blog.negmbots.com/field-tests/2026-11-ncm-on-amd-gpu/)** on *Load Bearing*.
 
 The question: can a model give you a cost per request you can forecast and plan for, and where does that predictability actually come from? I ran the released code and model of [Next-Concept Modeling](https://arxiv.org/abs/2610.14162) (NCM, Stanford, 2026) for news summarization (XSum) on an AMD Radeon 8060S iGPU, one request at a time, and compared it with a small public summarizer that writes word by word ([T5-small fine-tuned on XSum](https://huggingface.co/pki/t5-small-finetuned_xsum)).
 
